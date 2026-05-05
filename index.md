@@ -19,7 +19,3 @@ Welcome to **Bicky Naby’s Blog**, your new favorite spot on the web! 🌈✨ H
 <div class="blink">
   <p>💫 <blink>THIS SITE IS UNDER CONSTRUCTION! PLEASE COME BACK LATER!</blink> 💫</p>
 </div>
-
-<div class="construction">
-  <img src="https://blob.gifcities.org/gifcities/2HK73FMZ27D3XXG4Q6PYVS4WLNCMTKHU.gif" width="200" alt="Under Construction">
-</div>
