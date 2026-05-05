@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Welcome to Bicky's Blog"
+title: "Welcome to Bicky’s Blog!"
 ---
 
 <div class="construction">
-  <img src="https://media.giphy.com/media/3o7TKSQ5rNQXlZQvQE/giphy.gif" width="200" alt="Sparkles">
+  <img src="https://blob.gifcities.org/gifcities/2HK73FMZ27D3XXG4Q6PYVS4WLNCMTKHU.gif" width="200" alt="Under Construction" onerror="this.src='https://via.placeholder.com/200/FF00FF/000000?text=UNDER+CONSTRUCTION'">
 </div>
 
 # 💖 HEY BESTIE! 💖
 
-Welcome to **Bicky’s Blog**, your new favorite spot on the web! 🌈✨
+Welcome to **Bicky Naby’s Blog**, your new favorite spot on the web! 🌈✨ Here, I’ll be sharing my *~thoughts~*, my *~drama~*, and all the things that make life *~sparkle~*.
 
 ## 📜 LATEST POSTS
 {% for post in site.posts %}
@@ -21,5 +21,5 @@ Welcome to **Bicky’s Blog**, your new favorite spot on the web! 🌈✨
 </div>
 
 <div class="construction">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcDq4/giphy.gif" width="200" alt="Under Construction">
+  <img src="https://blob.gifcities.org/gifcities/2HK73FMZ27D3XXG4Q6PYVS4WLNCMTKHU.gif" width="200" alt="Under Construction">
 </div>
