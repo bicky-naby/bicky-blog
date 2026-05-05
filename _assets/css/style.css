@@ -2,26 +2,64 @@
 body {
     background-color: #000;
     background-image: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7');
-    color: #00FFFF; /* Bright teal for readability */
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #00FFFF !important; /* Force teal text */
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
     margin: 0;
     padding: 0;
-    cursor: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7'), auto;
+    cursor: url('https://blob.gifcities.org/gifcities/22NBAQSNBJ6OB6NCT5SXTTFGMBV7DJCY.gif'), auto;
 }
 
-/* Ensure links are visible */
+/* Force header colors */
+header, h1, h2, h3, h4, h5, h6 {
+    color: #FF00FF !important; /* Hot pink headers */
+    text-shadow: 0 0 5px #00FFFF !important;
+}
+
+/* Main content text */
+main, p, li, div {
+    color: #00FFFF !important; /* Teal body text */
+}
+
+/* Links */
 a {
-    color: #FF00FF; /* Hot pink for links */
+    color: #FFFF00 !important; /* Yellow links */
     text-decoration: underline;
 }
 
 a:visited {
-    color: #FFFF00; /* Yellow for visited links */
+    color: #FF00FF !important; /* Pink for visited links */
 }
 
 /* Header and footer text colors */
 header, footer {
-    color: #FFFFFF; /* White for headers/footers */
+    color: #FFFFFF !important; /* White for headers/footers */
+    background-color: #FF00FF !important; /* Pink header */
+}
+
+footer {
+    background-color: #00FFFF !important; /* Blue footer */
+}
+
+.blink {
+    text-decoration: blink;
+    color: #FFFF00 !important; /* Yellow blink text */
+}
+
+.marquee {
+    color: #FFFF00 !important; /* Yellow marquee */
+}
+
+.construction {
+    text-align: center;
+    margin: 20px;
+}
+
+.guestbook {
+    background-color: #FF00FF;
+    border: 2px solid #00FFFF;
+    padding: 10px;
+    margin: 20px;
+    color: #00FF00 !important; /* Green guestbook text */
 }
 
 header {
