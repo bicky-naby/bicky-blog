@@ -2,11 +2,26 @@
 body {
     background-color: #000;
     background-image: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7');
-    color: #FF00FF;
+    color: #00FFFF; /* Bright teal for readability */
     font-family: "Comic Sans MS", cursive, sans-serif;
     margin: 0;
     padding: 0;
     cursor: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7'), auto;
+}
+
+/* Ensure links are visible */
+a {
+    color: #FF00FF; /* Hot pink for links */
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #FFFF00; /* Yellow for visited links */
+}
+
+/* Header and footer text colors */
+header, footer {
+    color: #FFFFFF; /* White for headers/footers */
 }
 
 header {
