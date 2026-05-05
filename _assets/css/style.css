@@ -1,20 +1,61 @@
+/* 90s Geocities Core CSS */
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  color: #333;
+    background-color: #000;
+    background-image: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7');
+    color: #FF00FF;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: 0;
+    padding: 0;
+    cursor: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7'), auto;
 }
+
 header {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
+    background-color: #FF00FF;
+    border: 5px solid #00FFFF;
+    padding: 20px;
+    text-align: center;
+    animation: sparkle 1s infinite alternate;
 }
+
+@keyframes sparkle {
+    0% { text-shadow: 0 0 5px #FF00FF; }
+    100% { text-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF; }
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    margin: 20px;
+    border: 3px dashed #00FF00;
+}
+
 footer {
-  margin-top: 40px;
-  border-top: 1px solid #eee;
-  padding-top: 10px;
-  font-size: 0.8em;
-  color: #666;
+    background-color: #00FFFF;
+    color: #FF00FF;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.blink {
+    text-decoration: blink;
+}
+
+.marquee {
+    color: #FFFF00;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.construction {
+    text-align: center;
+    margin: 20px;
+}
+
+.guestbook {
+    background-color: #FF00FF;
+    border: 2px solid #00FFFF;
+    padding: 10px;
+    margin: 20px;
+    color: #00FF00;
 }

@@ -4,16 +4,52 @@
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <style>
+    /* Inline sparkle cursor */
+    html { cursor: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7'), auto; }
+  </style>
 </head>
 <body>
-  <header>
-    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <footer>
-    <p>© {{ site.time | date: "%Y" }} Bicky. All rights reserved.</p>
-  </footer>
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#000000">
+    <tr>
+      <td colspan="3" align="center">
+        <div class="construction">
+          <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcDq4/giphy.gif" width="100" alt="Under Construction">
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="150" valign="top" bgcolor="#FF00FF">
+        <img src="https://media.giphy.com/media/3o7TKSQ5rNQXlZQvQE/giphy.gif" width="150" alt="Sparkles">
+      </td>
+      <td valign="top" bgcolor="#000000">
+        <header>
+          <h1><blink>✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧ {{ site.title }} ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧</blink></h1>
+          <div class="marquee">
+            <marquee behavior="scroll" direction="left" scrollamount="10">
+              🌟 WELCOME TO MY 90s BLOG! 🌟 &nbsp; 💖 BEST VIEWED IN NETSCAPE 💖 &nbsp; 🌟 WELCOME TO MY 90s BLOG! 🌟
+            </marquee>
+          </div>
+        </header>
+        <main>
+          {{ content }}
+        </main>
+        <div class="guestbook">
+          <h2>📝 Guestbook (Coming Soon!)</h2>
+          <p>Leave a message! (Not actually functional... yet.)</p>
+        </div>
+      </td>
+      <td width="150" valign="top" bgcolor="#FF00FF">
+        <img src="https://media.giphy.com/media/3o7TKSQ5rNQXlZQvQE/giphy.gif" width="150" alt="Sparkles">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center" bgcolor="#00FFFF">
+        <footer>
+          <p>© {{ site.time | date: "%Y" }} Bicky. All rights reserved. | <img src="https://i.imgur.com/5zBqZQn.png" width="88" height="31" alt="Best Viewed in Netscape"></p>
+        </footer>
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
