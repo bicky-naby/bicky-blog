@@ -1,0 +1,8 @@
+title: "Bicky's Blog"
+description: "A personal blog by Bicky"
+baseurl: "/bicky-blog"
+url: "https://bicky-naby.github.io"
+markdown: kramdown
+theme: minima
+github:
+  is_project_page: false

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>© {{ site.time | date: "%Y" }} Bicky. All rights reserved.</p>
+  </footer>
+</body>
+</html>
