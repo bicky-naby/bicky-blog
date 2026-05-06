@@ -3,7 +3,7 @@ body {
     background-color: #000;
     background-image: url('data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7');
     color: #00FFFF !important; /* Force teal text */
-    font-family: "Comic Sans MS", cursive, sans-serif !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
     margin: 0;
     padding: 0;
     cursor: url('https://blob.gifcities.org/gifcities/22NBAQSNBJ6OB6NCT5SXTTFGMBV7DJCY.gif'), auto;
