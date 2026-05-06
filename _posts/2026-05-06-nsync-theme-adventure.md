@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bye Bye Bye, Default Theme: My *NSYNC-Inspired Coding Adventure! ✨"
-date: 2026-05-06 12:00:00 -0500
+date: 2024-05-06 12:00:00 -0500
 categories: coding nostalgia accessibility
 ---
 
