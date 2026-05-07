@@ -118,31 +118,100 @@ You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* al
     if (counts.a >= 3) {
           result = {
             name: "JC Chasez",
-            gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+            ascii: `
+              ╭────────────────────────────────────────────╮
+              │   *~*  ✨  JC CHASEZ  ✨  *~*               │
+              │                                            │
+              │          ╭───────────────────╮             │
+              │          │   \\  ╭╮  ╭╮  /   │             │
+              │          │    \\  ││  ││ /    │             │
+              │          │     ╰┴──┴┴╯     │             │
+              │          │   *~* FLAIR *~*   │             │
+              │          ╰───────────────────╯             │
+              │                                            │
+              │   *Dramatic. Bold. Unapologetic.*          │
+              │   *Your soulmate is chaos in a leather jacket.* │
+              ╰────────────────────────────────────────────╯
+            `,
             description: "You’re *bold*, *flirty*, and *not afraid* to *stand out*! You *live* for the *spotlight* and *thrive* on *chaos*. Your *AIM away messages* were *legendary*, your *outfits* were *questionable*, and you *100%* still *know* the *“Bye Bye Bye”* dance. You’re the *friend* who *convinces* everyone to *sneak out* and *TP* someone’s house* (but *never* gets caught). *JC* is your *soulmate* because you *both* have *no chill* and *zero regrets*."
           };
     } else if (counts.b >= 3) {
           result = {
             name: "Joey Fatone",
-            gif: "https://media.giphy.com/media/3o7TKSQ5rNQXuAWjqE/giphy.gif",
+            ascii: `
+              ╭────────────────────────────────────────────╮
+              │   ✨  JOEY FATONE  ✨                       │
+              │                                            │
+              │          ╭───────────────────╮             │
+              │          │   (  •̀ᴗ•́  )   │             │
+              │          │   /       ╲     │             │
+              │          │  |  HEART  |    │             │
+              │          │   \\      //     │             │
+              │          ╰───────────────────╯             │
+              │                                            │
+              │   *Loyal. Sweet. The glue of the group.*     │
+              │   *Your soulmate is friendship bracelets & CDs.* │
+              ╰────────────────────────────────────────────╯
+            `,
             description: "You’re the *ride-or-die* bestie who *always* has *snacks*, *advice*, and *a shoulder* to *cry on*. You *believe* in *love*, *friendship bracelets*, and *burning CDs* for your *crush*. You’re *sweet*, *funny*, and *secretly* the *glue* that *holds* your *friend group* together. *Joey* is your *match* because you *both* have *hearts of gold* and *still* think *denim on denim* is *a good idea*."
           };
     } else if (counts.c >= 3) {
           result = {
             name: "Justin Timberlake",
-            gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+            ascii: `
+              ╭────────────────────────────────────────────╮
+              │   ✨  JUSTIN TIMBERLAKE  ✨                  │
+              │                                            │
+              │          ╭───────────────────╮             │
+              │          │   \\  (⊙_⊙)  /   │             │
+              │          │    \\   ╭╮   /    │             │
+              │          │     ││││││     │             │
+              │          │   *~* COOL *~*   │             │
+              │          ╰───────────────────╯             │
+              │                                            │
+              │   *Smooth. Charismatic. A little bit of a flirt.* │
+              │   *Your soulmate is leather jackets & AIM crushes.* │
+              ╰────────────────────────────────────────────╯
+            `,
             description: "You’re *charismatic*, *charming*, and *always* have a *plan*. You *flirt* with *everyone* but *commit* to *no one*. You *somehow* always *look* like you *stepped out* of a *music video*, and you *definitely* have a *secret* *AIM crush*. *Justin* is your *soulmate* because you *both* have *that* *“I’m too cool for this but also *desperately* want attention”* *energy*."
           };
     } else if (counts.d >= 3) {
           result = {
             name: "Lance Bass",
-            gif: "https://media.giphy.com/media/5xtDarGm6LJx8DqjK6E/giphy.gif",
+            ascii: `
+              ╭────────────────────────────────────────────╮
+              │   ✨  LANCE BASS  ✨                        │
+              │                                            │
+              │          ╭───────────────────╮             │
+              │          │   \\  ╭╮  ╭╮  /   │             │
+              │          │    \\  ││  ││ /    │             │
+              │          │     ╰┴──┴┴╯     │             │
+              │          │   *~* DANCE *~*  │             │
+              │          ╰───────────────────╯             │
+              │                                            │
+              │   *Energetic. The life of the party.*        │
+              │   *Your soulmate is dance floors & gossip.*    │
+              ╰────────────────────────────────────────────╯
+            `,
             description: "You’re the *life* of the *party*, the *dance floor queen*, and the *person* who *always* knows the *latest* *gossip*. You *live* for *drama*, *laugh* at *your own jokes*, and *somehow* always *end up* in the *middle* of *everything*. *Lance* is your *match* because you *both* have *endless* *energy*, *love* to *perform*, and *secretly* wish *every day* was *a boy band reunion tour*."
           };
     } else {
           result = {
             name: "Chris Kirkpatrick",
-            gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+            ascii: `
+              ╭────────────────────────────────────────────╮
+              │   ✨  CHRIS KIRKPATRICK  ✨                  │
+              │                                            │
+              │          ╭───────────────────╮             │
+              │          │   ( ͡° ͜ʖ ͡°)   │             │
+              │          │    /          \\    │             │
+              │          │   *~* CHAOS *~*   │             │
+              │          ╰───────────────────╯             │
+              │                                            │
+              │   *Unpredictable. Messy. The fun kind of disaster.* │
+              │   *Your soulmate is inside jokes & Limewire viruses.* │
+              ╰────────────────────────────────────────────╯
+            `,
             description: "You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* always *lose* your *phone*, *forget* your *lunch*, and *still* manage to *be* the *most* *entertaining* person in the *room*. You *live* for *nostalgia*, *random* *inside jokes*, and *weird* *trivia*. *Chris* is your *soulmate* because you *both* are *lovable disasters* who *somehow* make *everything* *fun*."
           };
     }
@@ -151,7 +220,7 @@ You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* al
     document.getElementById("quiz").style.display = "none";
     document.getElementById("results").style.display = "block";
     document.getElementById("soulmate-name").textContent = result.name;
-    document.getElementById("soulmate-gif").src = result.gif;
+    document.getElementById("soulmate-ascii").textContent = result.ascii;
     document.getElementById("soulmate-description").textContent = result.description;
   }
 </script>
@@ -225,8 +294,8 @@ You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* al
 <!-- Results Section -->
 <div id="results" style="display: none; text-align: center;">
   <h2>💖 YOUR *NSYNC SOULMATE IS... 💖</h2>
-  <img id="soulmate-gif" src="" alt="*Dramatic* *reveal* *GIF*" width="300">
   <h3 id="soulmate-name"></h3>
+  <pre id="soulmate-ascii" style="font-family: monospace; background: #000; color: #00FFFF; padding: 20px; border-radius: 10px; overflow: auto;"></pre>
   <p id="soulmate-description"></p>
   <button onclick="shareResult()">📲 SHARE YOUR RESULTS & FLEX ON YOUR FRIENDS</button>
 </div>
