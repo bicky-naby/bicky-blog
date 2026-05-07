@@ -96,11 +96,13 @@ You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* al
     answers[question] = choice;
     // Hide current question, show next one
     document.getElementById(`q${question}`).style.display = "none";
-    document.getElementById(`q${question + 1}`).style.display = "block";
     
-    // If it was the last question, show results
+    // If it's the last question, calculate results
     if (question === 7) {
       calculateResult();
+    } else {
+      // Otherwise, show next question
+      document.getElementById(`q${question + 1}`).style.display = "block";
     }
   }
   
