@@ -4,11 +4,11 @@ title: "💖✨ SIGN BICKY'S GUESTBOOK! ✨💖"
 date: 2026-05-07
 ---
 
-<marquee behavior="scroll" direction="left" scrollamount="12" style="background: #9370DB; color: #FFFF00; padding: 12px; font-family: 'Comic Sans MS', cursive; font-weight: bold; text-shadow: 2px 2px 4px #000;">
+<marquee behavior="scroll" direction="left" scrollamount="12" style="background: #FF00FF; color: #FFFF00; padding: 12px; font-family: 'Comic Sans MS', cursive; font-weight: bold; text-shadow: 2px 2px 4px #000;">
 🌟 *~* LEAVE YOUR MARK IN BICKY'S GUESTBOOK! *~* 🌟 &nbsp; 💖 SPREAD THE GLITTER LOVE! 💖 &nbsp; 🌟 BE A PART OF HISTORY! 🌟
 </marquee>
 
-<div style="text-align: center; margin: 20px 0; background: #9370DB; padding: 20px; border: 3px dashed #FFD700; border-radius: 15px;">
+<div style="text-align: center; margin: 20px 0; background: #FF00FF; padding: 20px; border: 3px dashed #FFD700; border-radius: 15px;">
 <img src="https://media4.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlcDM5aWdkMXpub2Flcmgwa3Q0dm9sMzZiY3FsaThucjlyZXVyOG12eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZaEQFpGpQDT9UGWToF/200.gif" alt="*NSYNC waving hello" style="max-width: 80%; border: 5px solid #FFD700; border-radius: 10px;">
 <p style="color: #FFFF00; font-family: 'Comic Sans MS', cursive; font-size: 1.3em; margin-top: 15px; text-shadow: 1px 1px 2px #000;">
 💌 *Your words could be the next glittery masterpiece!* 💌
@@ -44,7 +44,7 @@ It's *super* easy, bestie! Just follow these *fabulous* steps:
 
 ## 🌟 WHY SIGN?
 
-<blockquote style="border-left: 5px solid #FF00FF; padding: 15px; background: #32CD32; font-style: italic; color: #FFFF00; text-shadow: 1px 1px 2px #000; font-size: 1.1em;">
+<blockquote style="border-left: 5px solid #FF00FF; padding: 15px; background: #9370DB; font-style: italic; color: #FFFF00; text-shadow: 1px 1px 2px #000; font-size: 1.1em;">
 "Because the world needs more glitter, more love, and more *NSYNC references.*"
 <footer style="text-align: right; font-size: 0.9em; color: #FFD700;">— Bicky Naby, probably crying to "It's Gonna Be Me"</footer>
 </blockquote>
@@ -61,23 +61,23 @@ Here's what you get when you sign:
 
 ## 🎤 EXAMPLE ENTRIES (FOR INSPIRATION)
 
-<div style="background: #32CD32; padding: 15px; border: 2px dashed #FFD700; border-radius: 10px; margin: 20px 0;">
+<div style="background: #FF00FF; padding: 15px; border: 2px dashed #FFD700; border-radius: 10px; margin: 20px 0;">
 
 <h3 style="color: #FFFF00; text-align: center; text-shadow: 1px 1px 2px #000;">✨ GUESTBOOK HALL OF FAME ✨</h3>
 
-<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #FF00FF;">
+<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
 <strong style="color: #FFFF00;">User</strong> <span style="color: #00FFFF;">(🎉)</span>
 <p><em>"Bicky, you're my glitter spirit animal! This blog is my new religion. 💖"</em></p>
 <small style="color: #00FFFF;">Favorite *NSYNC Song: Bye Bye Bye | Mood: 🔥</small>
 </div>
 
-<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #FF00FF;">
+<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
 <strong style="color: #FFFF00;">GlitterQueen2000</strong> <span style="color: #00FFFF;">(✨)</span>
 <p><em>"I signed up to GitHub just for this. No regrets. *NSYNC forever!"</em></p>
 <small style="color: #00FFFF;">Favorite *NSYNC Song: It's Gonna Be Me | Mood: 💃</small>
 </div>
 
-<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #FF00FF;">
+<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
 <strong style="color: #FFFF00;">Early2000sKid</strong> <span style="color: #00FFFF;">(😭)</span>
 <p><em>"This guestbook brought me back to my AIM away message days. Thank you."</em></p>
 <small style="color: #00FFFF;">Favorite *NSYNC Song: Tearin' Up My Heart | Mood: 💔</small>
@@ -98,7 +98,7 @@ Here's what you get when you sign:
 
 ---
 
-<div style="background: #FFD700; color: #9370DB; padding: 15px; border-radius: 10px; margin: 20px 0; text-align: center; font-weight: bold; text-shadow: 1px 1px 2px #000;">
+<div style="background: #FFD700; color: #FF00FF; padding: 15px; border-radius: 10px; margin: 20px 0; text-align: center; font-weight: bold; text-shadow: 1px 1px 2px #000;">
 💫 READY TO LEAVE YOUR MARK? 💫
 </div>
 
@@ -108,6 +108,6 @@ Here's what you get when you sign:
 </a>
 </div>
 
-<marquee behavior="scroll" direction="right" scrollamount="12" style="background: #32CD32; color: #FFFF00; padding: 12px; font-family: 'Comic Sans MS', cursive; font-weight: bold; text-shadow: 2px 2px 4px #000;">
+<marquee behavior="scroll" direction="right" scrollamount="12" style="background: #9370DB; color: #FFFF00; padding: 12px; font-family: 'Comic Sans MS', cursive; font-weight: bold; text-shadow: 2px 2px 4px #000;">
 🌟 THANKS FOR BEING A PART OF THE GLITTER FAMILY! 🌟 &nbsp; 💖 SPREAD THE LOVE! 💖 &nbsp; 🌟 LET'S MAKE THE INTERNET FABULOUS AGAIN! 🌟
 </marquee>
