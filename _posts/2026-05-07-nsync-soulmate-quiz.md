@@ -116,35 +116,35 @@ You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* al
     // Determine result
     let result;
     if (counts.a >= 3) {
-      result = {
-        name: "JC Chasez",
-        gif: "https://media.giphy.com/media/3o7TKSQ5rNQXuAWjqE/giphy.gif",
-        description: "You’re *bold*, *flirty*, and *not afraid* to *stand out*! JC is your *soulmate* because you *both* have *no chill* and *zero regrets*."
-      };
+          result = {
+            name: "JC Chasez",
+            gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+            description: "You’re *bold*, *flirty*, and *not afraid* to *stand out*! You *live* for the *spotlight* and *thrive* on *chaos*. Your *AIM away messages* were *legendary*, your *outfits* were *questionable*, and you *100%* still *know* the *“Bye Bye Bye”* dance. You’re the *friend* who *convinces* everyone to *sneak out* and *TP* someone’s house* (but *never* gets caught). *JC* is your *soulmate* because you *both* have *no chill* and *zero regrets*."
+          };
     } else if (counts.b >= 3) {
-      result = {
-        name: "Joey Fatone",
-        gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
-        description: "You’re the *ride-or-die* bestie who *always* has *snacks* and *advice*. Joey is your *match* because you *both* have *hearts of gold*."
-      };
+          result = {
+            name: "Joey Fatone",
+            gif: "https://media.giphy.com/media/3o7TKSQ5rNQXuAWjqE/giphy.gif",
+            description: "You’re the *ride-or-die* bestie who *always* has *snacks*, *advice*, and *a shoulder* to *cry on*. You *believe* in *love*, *friendship bracelets*, and *burning CDs* for your *crush*. You’re *sweet*, *funny*, and *secretly* the *glue* that *holds* your *friend group* together. *Joey* is your *match* because you *both* have *hearts of gold* and *still* think *denim on denim* is *a good idea*."
+          };
     } else if (counts.c >= 3) {
-      result = {
-        name: "Justin Timberlake",
-        gif: "https://media.giphy.com/media/5xtDarGm6LJx8DqjK6E/giphy.gif",
-        description: "You’re *charismatic* and *charming*—just like Justin! You *both* have *that* *“I’m too cool for this”* *energy*."
-      };
+          result = {
+            name: "Justin Timberlake",
+            gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+            description: "You’re *charismatic*, *charming*, and *always* have a *plan*. You *flirt* with *everyone* but *commit* to *no one*. You *somehow* always *look* like you *stepped out* of a *music video*, and you *definitely* have a *secret* *AIM crush*. *Justin* is your *soulmate* because you *both* have *that* *“I’m too cool for this but also *desperately* want attention”* *energy*."
+          };
     } else if (counts.d >= 3) {
-      result = {
-        name: "Lance Bass",
-        gif: "https://media.giphy.com/media/3o7TKSQ5rNQXuAWjqE/giphy.gif",
-        description: "You’re the *life* of the *party*—just like Lance! You *both* have *endless* *energy* and *love* to *perform*."
-      };
+          result = {
+            name: "Lance Bass",
+            gif: "https://media.giphy.com/media/5xtDarGm6LJx8DqjK6E/giphy.gif",
+            description: "You’re the *life* of the *party*, the *dance floor queen*, and the *person* who *always* knows the *latest* *gossip*. You *live* for *drama*, *laugh* at *your own jokes*, and *somehow* always *end up* in the *middle* of *everything*. *Lance* is your *match* because you *both* have *endless* *energy*, *love* to *perform*, and *secretly* wish *every day* was *a boy band reunion tour*."
+          };
     } else {
-      result = {
-        name: "Chris Kirkpatrick",
-        gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
-        description: "You’re *unpredictable* and *messy*—just like Chris! You *both* are *lovable disasters* who make *everything* *fun*."
-      };
+          result = {
+            name: "Chris Kirkpatrick",
+            gif: "https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif",
+            description: "You’re *unpredictable*, *messy*, and *always* have *a story*. You *somehow* always *lose* your *phone*, *forget* your *lunch*, and *still* manage to *be* the *most* *entertaining* person in the *room*. You *live* for *nostalgia*, *random* *inside jokes*, and *weird* *trivia*. *Chris* is your *soulmate* because you *both* are *lovable disasters* who *somehow* make *everything* *fun*."
+          };
     }
     
     // Display results
