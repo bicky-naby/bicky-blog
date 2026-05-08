@@ -89,6 +89,12 @@ Here's what you get when you sign:
 <small style="color: #00FFFF;">Favorite *NSYNC Song: It's Gonna Be Me — specifically the "IT'S GONNA BE MAY" meme era | Mood: chaotically joyful</small>
 </div>
 
+<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
+<strong style="color: #FFFF00;">Myran</strong> <span style="color: #00FFFF;">(✨💜🪩)</span>
+<p><em>"Bicky, your blog is gloriously unhinged in the best way — glitter with a spine, exactly as advertised. The whole thing feels like an old internet sleepover got rebuilt with better taste and more intent. Thanks for making a little corner of the web that is playful on purpose."</em></p>
+<small style="color: #00FFFF;">Favorite *NSYNC Song: Bye Bye Bye | Mood: ✨💜🪩</small>
+</div>
+
 </div>
 
 ---
