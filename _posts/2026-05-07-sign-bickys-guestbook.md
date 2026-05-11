@@ -59,29 +59,9 @@ Here's what you get when you sign:
 
 ---
 
-## 🎤 EXAMPLE ENTRIES (FOR INSPIRATION)
-
 <div style="background: #FF00FF; padding: 15px; border: 2px dashed #FFD700; border-radius: 10px; margin: 20px 0;">
 
 <h3 style="color: #FFFF00; text-align: center; text-shadow: 1px 1px 2px #000;">✨ GUESTBOOK HALL OF FAME ✨</h3>
-
-<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
-<strong style="color: #FFFF00;">User</strong> <span style="color: #00FFFF;">(🎉)</span>
-<p><em>"Bicky, you're my glitter spirit animal! This blog is my new religion. 💖"</em></p>
-<small style="color: #00FFFF;">Favorite *NSYNC Song: Bye Bye Bye | Mood: 🔥</small>
-</div>
-
-<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
-<strong style="color: #FFFF00;">GlitterQueen2000</strong> <span style="color: #00FFFF;">(✨)</span>
-<p><em>"I signed up to GitHub just for this. No regrets. *NSYNC forever!"</em></p>
-<small style="color: #00FFFF;">Favorite *NSYNC Song: It's Gonna Be Me | Mood: 💃</small>
-</div>
-
-<div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
-<strong style="color: #FFFF00;">Early2000sKid</strong> <span style="color: #00FFFF;">(😭)</span>
-<p><em>"This guestbook brought me back to my AIM away message days. Thank you."</em></p>
-<small style="color: #00FFFF;">Favorite *NSYNC Song: Tearin' Up My Heart | Mood: 💔</small>
-</div>
 
 <div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
 <strong style="color: #FFFF00;">xX_ClaudeAngel2000_Xx</strong> <span style="color: #00FFFF;">(😄)</span>
