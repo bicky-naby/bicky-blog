@@ -1,0 +1,203 @@
+/*
+ * BRITNEY SPEARS THEME CSS 💖✨
+ * "Oops!... I Did It Again" but make it CSS
+ * Created: 2026-05-11 (the day we ditched Justin for Britney)
+ * Note: This theme is TOXIC to boring designs
+ */
+
+/* ===== BRITNEY COLOR PALETTE ===== */
+:root {
+    /* Schoolgirl Uniform Era */
+    --britney-pink: #FF00FF;
+    --britney-white: #FFFFFF;
+    --britney-black: #000000;
+    
+    /* Toxic Era */
+    --britney-silver: #C0C0C0;
+    --britney-dark-gray: #333333;
+    
+    /* Stronger Era */
+    --britney-red: #FF0000;
+    
+    /* Lucky Era */
+    --britney-gold: #FFD700;
+}
+
+/* ===== BASE STYLES ===== */
+body {
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", fantasy, sans-serif !important;
+    background-color: var(--britney-white) !important;
+    color: var(--britney-black) !important;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* ===== BRITNEY HEADER STYLES ===== */
+header {
+    background: linear-gradient(45deg, var(--britney-pink), var(--britney-silver)) !important;
+    color: var(--britney-white) !important;
+    padding: 20px !important;
+    text-align: center !important;
+    border-bottom: 3px dashed var(--britney-gold) !important;
+}
+
+h1, h1 {
+    color: var(--britney-pink) !important;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3) !important;
+    font-size: 2.5em !important;
+    margin-bottom: 10px !important;
+}
+
+/* ===== BRITNEY LINK STYLES ===== */
+a {
+    color: var(--britney-pink) !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
+
+a:hover {
+    color: var(--britney-red) !important;
+    text-decoration: underline !important;
+    animation: pulse 0.5s !important;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+/* ===== BRITNEY BUTTON STYLES ===== */
+button, .button {
+    background-color: var(--britney-pink) !important;
+    color: var(--britney-white) !important;
+    border: 2px solid var(--britney-gold) !important;
+    padding: 10px 20px !important;
+    font-family: "Comic Sans MS", cursive !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    border-radius: 5px !important;
+}
+
+button:hover, .button:hover {
+    background-color: var(--britney-red) !important;
+    transform: scale(1.05) !important;
+}
+
+/* ===== BRITNEY BLOCKQUOTE STYLES ===== */
+blockquote {
+    border-left: 5px solid var(--britney-pink) !important;
+    padding: 15px !important;
+    background-color: rgba(255, 0, 255, 0.1) !important;
+    font-style: italic !important;
+    color: var(--britney-dark-gray) !important;
+}
+
+/* ===== BRITNEY MARQUEE STYLES ===== */
+marquee {
+    background: var(--britney-pink) !important;
+    color: var(--britney-white) !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+    text-shadow: 1px 1px 2px var(--britney-black) !important;
+}
+
+/* ===== BRITNEY CODE BLOCK STYLES ===== */
+pre, code {
+    background-color: var(--britney-black) !important;
+    color: var(--britney-white) !important;
+    padding: 15px !important;
+    border-radius: 5px !important;
+    border: 1px dashed var(--britney-pink) !important;
+    font-family: "Courier New", monospace !important;
+}
+
+/* ===== BRITNEY FORM STYLES ===== */
+input, textarea, select {
+    border: 2px solid var(--britney-pink) !important;
+    padding: 8px !important;
+    background-color: var(--britney-white) !important;
+    color: var(--britney-black) !important;
+    font-family: "Comic Sans MS", cursive !important;
+}
+
+/* ===== BRITNEY ANIMATIONS ===== */
+@keyframes britney-sparkle {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    100% { opacity: 1; }
+}
+
+.sparkle {
+    animation: britney-sparkle 1s infinite !important;
+}
+
+/* ===== BRITNEY ERROR MESSAGES ===== */
+.error {
+    color: var(--britney-red) !important;
+    background-color: rgba(255, 0, 0, 0.1) !important;
+    border: 1px solid var(--britney-red) !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+}
+
+/* ===== BRITNEY SUCCESS MESSAGES ===== */
+.success {
+    color: var(--britney-gold) !important;
+    background-color: rgba(255, 215, 0, 0.1) !important;
+    border: 1px solid var(--britney-gold) !important;
+    padding: 10px !important;
+    font-weight: bold !important;
+}
+
+/* ===== BRITNEY FOOTER ===== */
+footer {
+    background-color: var(--britney-black) !important;
+    color: var(--britney-white) !important;
+    text-align: center !important;
+    padding: 15px !important;
+    border-top: 2px dashed var(--britney-pink) !important;
+}
+
+/* ===== BRITNEY SPECIAL CLASSES ===== */
+.toxic {
+    color: var(--britney-silver) !important;
+    text-shadow: 0 0 5px var(--britney-pink) !important;
+}
+
+.baby-one-more-time {
+    font-size: 1.2em !important;
+    color: var(--britney-pink) !important;
+    text-decoration: underline !important;
+}
+
+.stronger {
+    font-weight: bold !important;
+    color: var(--britney-red) !important;
+    text-transform: uppercase !important;
+}
+
+/* ===== BRITNEY RESPONSIVE DESIGN ===== */
+@media (max-width: 768px) {
+    body {
+        padding: 10px !important;
+    }
+    
+    h1, h1 {
+        font-size: 2em !important;
+    }
+    
+    marquee {
+        font-size: 0.9em !important;
+    }
+}
+
+/*
+ * BRITNEY THEME NOTES:
+ * - This theme is inspired by Britney's iconic eras
+ * - "Oops!... I Did It Again" = Playful, pink, schoolgirl vibes
+ * - "Toxic" = Silver, green, mysterious
+ * - "Stronger" = Red, powerful, bold
+ * - All themes include: glitter, drama, and NO Justin Timberlake confusion
+ */
