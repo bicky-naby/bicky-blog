@@ -23,7 +23,7 @@ OMG BESTIES!!! 😱 I just lived through the *~scariest~* moment of my *digital 
 
 <div style="border-left: 3px solid #FFD700; padding: 10px; margin: 10px 0; background: #9370DB;">
 <strong style="color: #FFFF00;">SHOUTOUT TO THE GLITTER HERO OF THE DAY</strong> <span style="color: #00FFFF;">(👑)</span>
-<p><em>"@User (aka <code>&lt;@595664008468496385&gt;</code> on Discord) for catching this *~font crime~* and saving my blog from the Papyrus apocalypse!!! You’re a *~true~* bestie!!! 💖"</em></p>
+<p><em>"Niklas Vågstedt (aka @niklasva on GitHub) for catching this *~font crime~* and saving my blog from the Papyrus apocalypse!!! You’re a *~true~* bestie!!! 💖"</em></p>
 <small style="color: #00FFFF;">Favorite *NSYNC Song: *~Unknown (but probably "Bye Bye Bye")~* | Mood: 🎉</small>
 </div>
 

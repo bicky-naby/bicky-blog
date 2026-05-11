@@ -25,7 +25,7 @@
 
 /* ===== BASE STYLES ===== */
 body {
-    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", fantasy, sans-serif !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
     background-color: var(--britney-white) !important;
     color: var(--britney-black) !important;
     line-height: 1.6;
@@ -47,6 +47,7 @@ h1, h1 {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3) !important;
     font-size: 2.5em !important;
     margin-bottom: 10px !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY LINK STYLES ===== */
@@ -54,6 +55,7 @@ a {
     color: var(--britney-pink) !important;
     text-decoration: none !important;
     font-weight: bold !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 a:hover {
@@ -92,6 +94,7 @@ blockquote {
     background-color: rgba(255, 0, 255, 0.1) !important;
     font-style: italic !important;
     color: var(--britney-dark-gray) !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY MARQUEE STYLES ===== */
@@ -101,6 +104,7 @@ marquee {
     padding: 10px !important;
     font-weight: bold !important;
     text-shadow: 1px 1px 2px var(--britney-black) !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY CODE BLOCK STYLES ===== */
@@ -140,6 +144,7 @@ input, textarea, select {
     border: 1px solid var(--britney-red) !important;
     padding: 10px !important;
     font-weight: bold !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY SUCCESS MESSAGES ===== */
@@ -149,6 +154,7 @@ input, textarea, select {
     border: 1px solid var(--britney-gold) !important;
     padding: 10px !important;
     font-weight: bold !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY FOOTER ===== */
@@ -158,30 +164,35 @@ footer {
     text-align: center !important;
     padding: 15px !important;
     border-top: 2px dashed var(--britney-pink) !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY SPECIAL CLASSES ===== */
 .toxic {
     color: var(--britney-silver) !important;
     text-shadow: 0 0 5px var(--britney-pink) !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 .baby-one-more-time {
     font-size: 1.2em !important;
     color: var(--britney-pink) !important;
     text-decoration: underline !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 .stronger {
     font-weight: bold !important;
     color: var(--britney-red) !important;
     text-transform: uppercase !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY RESPONSIVE DESIGN ===== */
 @media (max-width: 768px) {
     body {
         padding: 10px !important;
+        font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
     }
     
     h1, h1 {
