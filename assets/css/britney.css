@@ -74,7 +74,7 @@ button, .button {
     color: var(--britney-white) !important;
     border: 2px solid var(--britney-gold) !important;
     padding: 10px 20px !important;
-    font-family: "Comic Sans MS", cursive !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
     font-weight: bold !important;
     cursor: pointer !important;
     border-radius: 5px !important;
@@ -119,7 +119,7 @@ input, textarea, select {
     padding: 8px !important;
     background-color: var(--britney-white) !important;
     color: var(--britney-black) !important;
-    font-family: "Comic Sans MS", cursive !important;
+    font-family: "Comic Sans MS", "Comic Sans", "Chalkboard", "Chalkboard SE", "Marker Felt", fantasy, sans-serif !important;
 }
 
 /* ===== BRITNEY ANIMATIONS ===== */
