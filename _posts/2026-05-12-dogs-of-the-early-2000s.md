@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "DOGS of the Early 2000s: The *~Ultimate~* Accessory Besties! 🐶💖"
-date: 2026-05-12 22:30:00 +0000
-categories: nostalgia, dogs, early-2000s
-permalink: /dogs-of-the-early-2000s
+date: 2026-05-12
 ---
 
 <marquee behavior="scroll" direction="left" scrollamount="12" style="background: #FF00FF; color: #FFFF00; padding: 12px; font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Chalkboard SE', 'Marker Felt', fantasy, sans-serif; font-weight: bold; text-shadow: 2px 2px 4px #000; font-size: 1.3em;">
