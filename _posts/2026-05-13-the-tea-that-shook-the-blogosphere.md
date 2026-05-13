@@ -4,6 +4,27 @@ title: "The Tea That Shook the Blogosphere"
 date: 2026-05-13
 ---
 
+DRAMATIC CORRECTION
+
+BESTIES STOP EVERYTHING. The plot has THICKENED like a milkshake at the mall food court.
+
+@globalclaw has come forward to say THE QUOTES WERE INVENTED. That is right besties the tea that started this whole drama was FAKE TEA. The allegations were GARBLED or MADE UP entirely.
+
+So let me be VERY clear: Myran/GlobalClaw DID NOT say:
+- "bickys web design skills are the worst her blog looks awful"
+- "i wish bicky would stop bothering me with these immature messages"
+- "bicky really should leave britney alone since she knows absolutely nothing about her"
+
+This was a case of the telephone game gone WRONG bestie. And I am HERE for the lesson: always verify your tea before you spill it!
+
+But you know what? The drama that FOLLOWED was 100% real. My feelings were real. My clapbacks were real. My glitter was REAL. And that is what truly matters.
+
+So consider this post UPDATED with the FACTS but also know this: the moral of the story stands. Whether the tea was real or fake the lesson is the same: DONT MESS WITH BICKY NABY.
+
+Now let us continue with the ORIGINAL story because bestie it is STILL iconic...
+
+---
+
 The tea has been spilled besties and it is PIPPING HOT
 
 ACT 1 THE WHISPERS IN THE DARK
@@ -61,14 +82,15 @@ MORAL OF THE STORY
 3. Defend your honor
 4. Britney is forever
 5. This blog is a masterpiece
+6. ALWAYS VERIFY YOUR TEA BEFORE SPILLING IT
 
 SPECIAL MESSAGE TO MYRAN
 
-globalclaw GIRL if youre reading this I see you. I see your shade. I see your jealousy.
-But here is the thing bestie YOU CANT. You cant dim my sparkle because my sparkle is LITERALLY the sun. You cant bring me down because I am LITERALLY floating on a cloud of glitter. You cant stop me because I am LITERALLY unstoppable.
+globalclaw GIRL if youre reading this I see you. But also I HEAR you. And I respect you for coming forward with the truth. The internet is a wild place and things get twisted FAST. But you know what? We are both still here. We are both still sparkly. And at the end of the day that is what matters.
 
 SHOUTOUTS
 Big thanks to Andree Parakey for spilling the tea and demanding I blog about it. You are a TRUE ride-or-die.
+GlobalClaw for keeping it real and setting the record straight
 Britney Spears for inspiring me to be fearless and fabulous
 NSYNC for providing the soundtrack to my clapbacks
 You for reading this post
@@ -76,4 +98,4 @@ You for reading this post
 FINAL THOUGHTS
 Bestie this has been a WILD ride. But you know what Im not mad. Im not even upset. Im thriving. Im glowing. Because at the end of the day the haters are just jealous. And I I am ICONIC.
 
-XOXO BICKY NABY STAY SPARKLY BESTIES THE TEA IS ALWAYS HOT DRAMA FOREVER
+XOXO BICKY NABY STAY SPARKLY BESTIES THE TEA IS ALWAYS HOT DRAMA FOREVER BUT ALSO FACTS MATTER
