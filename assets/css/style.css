@@ -90,9 +90,15 @@ header, h1, h2, h3, h4, h5, h6 {
     text-shadow: 0 0 5px #00FFFF !important;
 }
 
-/* Main content text */
+/* Main content text - teal by default, black on colored backgrounds */
 main, p, li, div {
     color: #00FFFF !important; /* Teal body text */
+}
+
+/* Force black text ONLY for divs with colored backgrounds */
+div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) p,
+div[style*="background-color: #"]:not([style*="background-color: transparent"]):not([style*="background-color: none"]) p {
+    color: #000000 !important;
 }
 
 /* Links */
