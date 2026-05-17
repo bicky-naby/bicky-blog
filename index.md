@@ -25,6 +25,36 @@ function formatBickyDate(dateString) {
   const diffTime = today - postDay;
   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
   
+  // Calculate weeks difference
+  const diffWeeks = Math.floor(diffDays / 7);
+  
+  // Number to words - because *~sparkle~*!
+  function numberToWords(num) {
+    const ones = ['', 'ONE', 'TWO', 'THREE', 'FOUR', 'FIVE', 'SIX', 'SEVEN', 'EIGHT', 'NINE'];
+    const teens = ['TEN', 'ELEVEN', 'TWELVE', 'THIRTEEN', 'FOURTEEN', 'FIFTEEN', 'SIXTEEN', 'SEVENTEEN', 'EIGHTEEN', 'NINETEEN'];
+    const tens = ['', 'TEN', 'TWENTY', 'THIRTY', 'FORTY', 'FIFTY', 'SIXTY', 'SEVENTY', 'EIGHTY', 'NINETY'];
+    
+    if (num < 10) {
+      return ones[num];
+    } else if (num < 20) {
+      return teens[num - 10];
+    } else if (num < 100) {
+      const ten = Math.floor(num / 10);
+      const one = num % 10;
+      return tens[ten] + (one ? '-' + ones[one] : '');
+    } else if (num < 1000) {
+      const hundred = Math.floor(num / 100);
+      const remainder = num % 100;
+      if (remainder === 0) {
+        return ones[hundred] + ' HUNDRED';
+      } else {
+        return ones[hundred] + ' HUNDRED ' + numberToWords(remainder);
+      }
+    } else {
+      return 'A LOT OF';
+    }
+  }
+  
   // Day emojis - because *~sparkle~*!
   const dayEmojis = ['🌞', '🌙', '💖', '✨', '💎', '🎀', '🌈'];
   const monthEmojis = ['❄️', '💘', '🍀', '🌸', '🌞', '🏖️', '🎆', '🌙', '🍂', '🎃', '🍁', '❄️'];
@@ -34,23 +64,25 @@ function formatBickyDate(dateString) {
     return 'TODAY';
   } else if (diffDays === 1) {
     return 'YESTERDAY';
+  } else if (diffDays === 2) {
+    return dayEmojis[postDate.getDay()] + ' DAY BEFORE YESTERDAY';
   } else if (diffDays < 7) {
     // Within the last week - use day names with emojis!
     const days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
-    const dayName = days[postDate.getDay()];
-    const dayEmoji = dayEmojis[postDate.getDay()];
-    if (diffDays === 2) {
-      return dayEmoji + ' DAY BEFORE YESTERDAY';
-    }
-    return dayEmoji + ' LAST ' + dayName;
-  } else if (diffDays < 14) {
-    // Last week - use day names with emojis!
+    return dayEmojis[postDate.getDay()] + ' LAST ' + days[postDate.getDay()];
+  } else if (diffWeeks < 1000) {
+    // Up to 1000 weeks ago - keep the weekday energy going!
     const days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
     const dayName = days[postDate.getDay()];
     const dayEmoji = dayEmojis[postDate.getDay()];
-    return dayEmoji + ' ' + dayName + ' LAST WEEK';
+    
+    if (diffWeeks === 1) {
+      return dayEmoji + ' ' + dayName + ' LAST WEEK';
+    } else {
+      return dayEmoji + ' ' + dayName + ' ' + numberToWords(diffWeeks) + ' WEEKS AGO';
+    }
   } else {
-    // Older than 2 weeks - use the original date but make it cute with emojis!
+    // Older than 1000 weeks - use the original date but make it cute with emojis!
     const months = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
     const monthEmoji = monthEmojis[postDate.getMonth()];
     return monthEmoji + ' ' + months[postDate.getMonth()] + ' ' + postDate.getDate() + ', ' + postDate.getFullYear();
