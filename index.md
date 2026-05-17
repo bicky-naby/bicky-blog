@@ -26,10 +26,6 @@ function formatBickyDate(dateString) {
   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
   const diffWeeks = Math.floor(diffDays / 7);
   
-  // Debug: log the values to console
-  console.log('Post date:', dateString, 'Parsed:', postDate, 'PostDay:', postDay);
-  console.log('Today:', today, 'DiffDays:', diffDays, 'DiffWeeks:', diffWeeks);
-  
   // Number to words - because *~sparkle~*!
   function numberToWords(num) {
     const ones = ['', 'ONE', 'TWO', 'THREE', 'FOUR', 'FIVE', 'SIX', 'SEVEN', 'EIGHT', 'NINE'];
