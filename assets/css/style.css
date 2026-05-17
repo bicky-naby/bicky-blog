@@ -97,7 +97,9 @@ main, p, li, div {
 
 /* Force black text ONLY for divs with colored backgrounds */
 div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) p,
-div[style*="background-color: #"]:not([style*="background-color: transparent"]):not([style*="background-color: none"]) p {
+div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) li,
+div[style*="background-color: #"]:not([style*="background-color: transparent"]):not([style*="background-color: none"]) p,
+div[style*="background-color: #"]:not([style*="background-color: transparent"]):not([style*="background-color: none"]) li {
     color: #000000 !important;
 }
 
