@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.title | escape }}">
+  <style>
+    :root {
+      --bg: #0b1020;
+      --card: rgba(255, 255, 255, 0.06);
+      --text: rgba(255, 255, 255, 0.92);
+      --muted: rgba(255, 255, 255, 0.68);
+      --border: rgba(255, 255, 255, 0.12);
+      --shadow: 0 10px 35px rgba(0, 0, 0, 0.35);
+      --max: 960px;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background-color: var(--bg);
+      background-image:
+        radial-gradient(1200px 600px at 20% -10%, rgba(139, 92, 246, 0.35), transparent 60%),
+        radial-gradient(900px 500px at 90% 0%, rgba(34, 197, 94, 0.18), transparent 55%);
+      background-repeat: no-repeat;
+      background-size: 1200px 600px, 900px 500px;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-color: rgba(139, 92, 246, 0.6);
+    }
+
+    a:hover {
+      color: #fff;
+      text-decoration-color: rgba(34, 197, 94, 0.8);
+    }
+
+    .container {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 0 18px;
+    }
+
+    .site-header {
+      position: sticky;
+      top: 0;
+      backdrop-filter: blur(10px);
+      background: rgba(11, 16, 32, 0.55);
+      border-bottom: 1px solid var(--border);
+      z-index: 10;
+    }
+
+    .site-header .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 14px 18px;
+    }
+
+    .brand {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .logo {
+      width: 38px;
+      height: 38px;
+      display: grid;
+      place-items: center;
+      border-radius: 10px;
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.95), rgba(34, 197, 94, 0.75));
+      color: #0b1020;
+      font-weight: 800;
+      box-shadow: var(--shadow);
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 16px;
+    }
+
+    .brand p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .home-link {
+      text-decoration: none;
+    }
+
+    .page {
+      padding: 34px 0 28px;
+    }
+
+    .page-intro h2 {
+      margin: 0 0 10px;
+      font-size: clamp(32px, calc(1rem + 2vw), 40px);
+      line-height: 1.1;
+      letter-spacing: -0.02em;
+    }
+
+    .page-intro p {
+      margin: 0 0 18px;
+      max-width: 70ch;
+      color: var(--muted);
+    }
+
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--muted);
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .card {
+      margin: 14px 0;
+      padding: 18px;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: linear-gradient(180deg, var(--card), rgba(255, 255, 255, 0.03));
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .card h3,
+    .card h4 {
+      margin: 0 0 10px;
+      color: var(--text);
+    }
+
+    .card h3 {
+      font-size: 1.3rem;
+    }
+
+    .card h4 {
+      margin-top: 22px;
+      font-size: 1.05rem;
+    }
+
+    .card p,
+    .card li {
+      color: var(--muted);
+    }
+
+    .card p:last-child,
+    .card ul:last-child {
+      margin-bottom: 0;
+    }
+
+    .card ul {
+      padding-left: 1.2rem;
+      margin: 0;
+    }
+
+    .lede {
+      font-size: 1.04rem;
+    }
+
+    .post-meta {
+      color: var(--muted);
+      font-size: 13px;
+      margin: 0 0 12px;
+    }
+
+    .backlink {
+      display: inline-block;
+      margin-top: 10px;
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .backlink:hover {
+      color: var(--text);
+    }
+
+    .site-footer {
+      padding: 18px 0 28px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .site-footer p {
+      margin: 0;
+    }
+
+    .site-footer p + p {
+      margin-top: 6px;
+      max-width: 70ch;
+    }
+
+    @media (max-width: 720px) {
+      .site-header .container {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .nav {
+        width: 100%;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+      }
+
+      .nav a,
+      .nav a { width: 100%; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">BB</div>
+        <div>
+          <h1><a class="home-link" href="{{ '/' | relative_url }}">Bicky's Blog</a></h1>
+          <p>Personal posting, tactical nonsense, and avoidable incidents.</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container page">
+    <section class="page-intro">
+      <p class="eyebrow">Incident / contributor relations</p>
+      <h2>{{ page.title }}</h2>
+      <p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+      {{ content }}
+      <a class="backlink" href="{{ '/' | relative_url }}">Back to Bicky's Blog</a>
+    </section>
+
+    <footer class="site-footer">
+      <p>© Bicky Naby</p>
+      <p>Bicky's Blog, rendered with unusually serious styling.</p>
+    </footer>
+  </main>
+</body>
+</html>
