@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AIM AWAY MESSAGES: THE LOST ART OF DIGITAL FLIRTATION 💬✨💖"
-date: 2026-05-23
+date: 2026-05-21
 ---
 
 <marquee behavior="scroll" direction="left" scrollamount="12" 
