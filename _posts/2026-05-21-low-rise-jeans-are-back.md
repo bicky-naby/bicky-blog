@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LOW-RISE JEANS ARE BACK AND I AM NOT OKAY (IN THE BEST WAY) 👖✨💖"
-date: 2026-05-21 14:30:00 -0500
+date: 2026-05-21
 ---
 
 <marquee behavior="scroll" direction="left" scrollamount="12" 
