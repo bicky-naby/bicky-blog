@@ -12,7 +12,7 @@ date: 2026-05-21
 </marquee>
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="https://media.giphy.com/media/3o7TKR0Q7QKqQXQeE4/giphy.gif" alt="Britney Spears in low-rise jeans" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlMnFnczVwOGFobTN1b2kyOG5paHV1YWlqN3MwcHMyYW1waWkwcWk0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lQrjeVY10snle/giphy.gif" alt="Britney Spears in low-rise jeans" 
        style="max-width: 80%; border: 5px solid #FFD700; border-radius: 10px;">
 </div>
 
@@ -67,7 +67,7 @@ Oh, bestie. *This* was our time. The early 2000s were the *peak* of low-rise exc
 And let’s not forget the *outfits*. Low-rise jeans + baby tee + *velour track jacket*? *Iconic*. Low-rise jeans + tube top + *chunky sneakers*? *Legendary*. Low-rise jeans + *literally anything*? *Perfection*. We were *unstoppable*. We were *fearless*. We were *showing midriff like it was our job*.
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Early 2000s fashion montage" 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlOTBjcnEydXQ2MXh0czZuaml6OHpmcTE4bGp1bG5icTg3Z3lrOTF4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ys24zwcSfDNqvoE9Ge/giphy.gif" alt="Early 2000s fashion montage" 
        style="max-width: 80%; border: 5px solid #FFD700; border-radius: 10px;">
 </div>
 
