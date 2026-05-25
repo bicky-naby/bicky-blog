@@ -28,7 +28,7 @@ date: 2026-05-25
 <br>
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJrYjl4c3VwYjl4cDlwYzJxZzJxYzJxYzJxYzJxYzJxYzJxZCZjdD1n/LXonHTpN2j0N2/giphy.gif" alt="Dramatic investigation GIF - the truth is out there and it's STAPLE-LESS!!!" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0vIMRV6sOOvD87aW7/200.gif" alt="Idris Elba as Luther doing a dramatic investigation - the truth about the stapler conspiracy is OUT THERE, bestie!!!" 
        style="max-width: 90%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 30px #FF0000;">
 </div>
 
