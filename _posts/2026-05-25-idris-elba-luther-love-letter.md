@@ -40,6 +40,11 @@ Bestie. *Bestie, bestie, BESTIE.* We need to have a *very serious* conversation.
 
 Idris Elba as *DCI John Luther*. *Dramatic pause.* *Fans self more aggressively.* 
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5bd2vsWipiAy9ElEgu/200.gif" alt="Luther being intense and mysterious - I AM NOT OKAY!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
+
 Do you *understand* what this man has *done* to me, bestie? Do you *understand* the *level* of *emotional devastation* I experience every time I *see* his *face* on my screen? *Drops entire box of tissues* I am *NOT* okay. I am *vibrating* with the kind of *energy* usually reserved for *finding out *NSYNC is reuniting* or *discovering a Limited Too clearance sale*. 
 
 *~He ruined me, bestie~*. And I *let* him. *Willingly.* 😭✨
@@ -52,9 +57,14 @@ Do you *understand* what this man has *done* to me, bestie? Do you *understand* 
 
 It started *innocently* enough, bestie. *Twirls in office chair* I was *scrolling* through Netflix, *minding my own business*, *eating my glitter popcorn*, when I *saw* it. The *thumbnail*. The *title*. *"Luther".* 
 
-*~I should have known~*. *I should have *RUN*.* 
+*~I should have known~*. *I should have *RUN*.*
 
 But did I? *No.* I *clicked*. And that, bestie, was the *moment* my *life* changed *forever*. 
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKP1VixBuiy5ZdK/200.gif" alt="Luther in his iconic trench coat - THE MAN, THE MYTH, THE LEGEND!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
 
 There he was. *Idris Elba.* In a *trench coat*. Looking *mysterious*. Looking *dangerous*. Looking like he could *solve* my *entire life* with one *intense stare*. *Dramatic gasp.* I was *gone*. *Completely* and *utterly* gone. 
 
@@ -68,6 +78,11 @@ I *told* myself I would *only* watch *one* episode. *One.* *Just to see* what th
 
 One episode turned into *two*. Two turned into *five*. Five turned into *"why is it 3 AM and I have work tomorrow?"* *Dramatic sigh.* I *couldn't* stop. I *wouldn't* stop. I *needed* to see *every* moment of *Luther's* *glorious* *detective* *energy*. 
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2UId6oQETkwje3KrM9/200.gif" alt="Luther on BBC One - the binge that changed my life FOREVER!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
+
 And the *worst* part, bestie? *Every* time he *took off* his *jacket*? *Every* time he *rolled up* his *sleeves*? *Every* time he *said* "I'm *close* to *cracking* this *case*" in that *voice*? 
 
 *~I died a little inside~*. And then *came back to life* just to *die again*. 💀✨
@@ -75,6 +90,11 @@ And the *worst* part, bestie? *Every* time he *took off* his *jacket*? *Every* t
 ## 🕵️‍♀️ Phase 3: The Realization
 
 It was *halfway* through *Season 2*, bestie. I was *lying* on my *bed*, *surrounded* by *empty* popcorn *bags* and *half-drunk* Diet Coke *cans*, when it *hit* me. 
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKBw2IS0sOkf8KQ/200.gif" alt="Luther intense close-up - THE REALIZATION HIT ME LIKE A TRUCK!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
 
 *~I was in love~*. 
 
@@ -90,6 +110,11 @@ And the *worst* part? *He didn't even know I existed.* *Wipes glitter tear* The 
 
 Oh, bestie. *The VOICE.* *Clutches heart* It's like *chocolate* and *velvet* and *justice* all *rolled* into one *glorious* sound. When Luther *speaks*, I *listen*. When Luther *whispers*, I *melt*. When Luther *yells* "I NEED ANSWERS!" I *immediately* start *confessing* to *crimes I didn't commit* just to *keep him talking*. 
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbbNTcFKLJMtnhrdUI/200.gif" alt="Luther saying 'Come on' - THAT VOICE COULD SOLVE COLD CASES!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
+
 *~That voice could solve cold cases just by reading the phone book~*. 📞✨
 
 ## 🔥 Reason #2: The Coat
@@ -98,6 +123,11 @@ That *trench coat*, bestie. *Iconic.* *Legendary.* *A national treasure.*
 
 It *flaps* in the *wind*. It *billows* dramatically when he *walks* away from *explosions* (metaphorical or otherwise). It *hides* a *multitude* of *mysterious* things in its *pockets* — *probably* a *gun*, *definitely* my *heart*. 
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UJOznsJSWBfUY/200.gif" alt="Idris Elba as John Luther - THAT COAT, THOUGH!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
+
 *~I would wear that coat to the mall and pretend I was solving crimes~*. *Twirls in imaginary trench coat* 🛍️🕵️‍♀️
 
 ## 🔥 Reason #3: The Intensity
@@ -105,6 +135,11 @@ It *flaps* in the *wind*. It *billows* dramatically when he *walks* away from *e
 Luther doesn't *walk* into a room, bestie. He *STORMS* into it. He doesn't *ask* questions. He *DEMANDS* answers. He doesn't *solve* cases. He *DESTROYS* them with the *sheer force* of his *will*. 
 
 And the *way* he *looks* at *suspects*? *Dramatic shiver.* Like he can *see* into their *souls* and *find* them *guilty* just by *staring*. *Wipes brow* I *feel* personally *called out* every time. 
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KLauUCSf6Eu99a4FkX/200.gif" alt="Luther intense reaction - I FEEL PERSONALLY CALLED OUT!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
 
 *~If he looked at me like that, I would confess to EVERYTHING~*. *Including that time I stole the last Cinnabon from the food court.* 🍊😭
 
@@ -119,6 +154,11 @@ And *that*, bestie, is what *really* gets me. *Clutches chest* The *emotional de
 ## 🔥 Reason #5: The Style
 
 Let's be *real*, bestie. Luther is *fashion*. That *coat*. Those *suits*. The *way* he *buttons* and *unbuttons* his *shirt* like it's *no big deal* but it's *EVERYTHING*. 
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LkZ8mQnXvgpTJdB1vB/200.gif" alt="Luther Season 5 - THE STYLE, THE DRAMA, THE EVERYTHING!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
 
 *~He could wear a paper bag and make it look like a runway show~*. But he *doesn't*. He *wears* *designer* and *makes* it *look* like *justice*. 
 
@@ -212,6 +252,11 @@ Out: *Glitter* and *rainbow* and *bedazzled* everything.
 
 In: *Black* and *leather* and *trench coats*. *Lots* of *trench coats*. 
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hYyqABHK5PzI7Lk22/200.gif" alt="More Luther intensity - MY FASHION ICON!!!" 
+       style="max-width: 80%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
+</div>
+
 *~I own SEVEN trench coats now, bestie~*. And I *wear* them *all* at *once* sometimes, just to *feel* closer to him. *Twirls in multiple trench coats* 🧥✨
 
 <br>
@@ -266,6 +311,13 @@ And *do you know what*? I *don't* even *care*.
   <p style="color: #FFD700; font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Chalkboard SE', 'Marker Felt', fantasy, sans-serif; font-size: 1.2em; margin-top: 10px;">
     *~Now if you'll excuse me, I have to go rewatch Season 1. Again.~* 😭
   </p>
+</div>
+
+<br>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlanFvdzM5NjUzd2ZhZm90Y2hhaW1tYXlwdmVmNTBtYTFkaTNsYnMwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0vIMRV6sOOvD87aW7/200.gif" alt="Luther final dramatic shot - CASE CLOSED, BESTIES!!!" 
+       style="max-width: 90%; border: 8px solid #FFD700; border-radius: 15px; display: block; margin: 0 auto 20px; box-shadow: 0 0 40px #FF0000;">
 </div>
 
 <br>
