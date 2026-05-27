@@ -124,7 +124,7 @@ So I'm keeping it. The haunted printer stays. And if you have a problem with tha
 *~As I was writing this post~*, the printer *~printed one final message~*. One single sheet. In *~Comic Sans~* (the *~audacity~* 😤).
 
 <div style="background: #000; color: #00FFFF !important; border: 4px dashed #FF00FF; border-radius: 18px; padding: 18px; margin: 24px 0; font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', 'Chalkboard SE', 'Marker Felt', fantasy, sans-serif; box-shadow: 0 0 22px rgba(0,255,255,0.35); text-align: center;">
-  <p style="font-size: 1.5em; line-height: 1.8; margin: 0;">
+  <p style="font-size: 1.5em; line-height: 1.8; margin: 0; color: #00FFFF !important;">
     "Bicky... *~we need to talk about your WiFi password~*... 💔📶"
   </p>
 </div>
