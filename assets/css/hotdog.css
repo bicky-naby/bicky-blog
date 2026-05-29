@@ -78,6 +78,6 @@ body.hotdog-mode ::-webkit-scrollbar-thumb::before {
 }
 
 /* Simple hotdog stand cursor for the mode */
-body.hotdog-mode, body.hotdog-mode * {
+html.hotdog-mode, html.hotdog-mode *, body.hotdog-mode, body.hotdog-mode * {
     cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><rect width="32" height="32" fill="%23FFFF00"/><text x="16" y="20" font-family="Arial" font-size="16" fill="%23FF0000" text-anchor="middle">🌭</text></svg>'), auto !important;
 }
