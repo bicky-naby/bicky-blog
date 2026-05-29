@@ -37,6 +37,9 @@
             <button id="hotdog-toggle" onclick="toggleHotdogMode()" style="background: #FFFF00; color: #FF0000; border: 4px solid #FF0000; padding: 8px 18px; font-family: 'Comic Sans MS', cursive; font-weight: bold; cursor: pointer; border-radius: 0; box-shadow: 4px 4px 0 #000000; margin: 4px;">
               🌭 HOTDOG MODE (for Andree) IS STANDARD 🌭
             </button>
+            <button id="tts-toggle" onclick="toggleTTS()" style="background: #00FFFF; color: #FF00FF; border: 4px solid #FF00FF; padding: 8px 18px; font-family: 'Comic Sans MS', cursive; font-weight: bold; cursor: pointer; border-radius: 0; box-shadow: 4px 4px 0 #000000; margin: 4px;" title="Press Ctrl+Shift+T to toggle TTS on hover (for Andrée!)">
+              🎤 TTS ON HOVER (for Andrée!) ✨
+            </button>
           </div>
           <script>
             function ensureHotdogCss() {
@@ -80,6 +83,85 @@
 
             // Hotdog Stand is the standard theme now unless a visitor already chose sparkle mode.
             setHotdogMode(localStorage.getItem('bicky-hotdog-mode') !== 'disabled');
+
+            // ✨ ACCESSIBILITY FOR ANDREE ✨ TTS on hover for visual impairments
+            // This is Bicky's gift to Andrée - text-to-speech when hovering over text!
+            let ttsEnabled = true;
+            let currentUtterance = null;
+
+            function speakText(text) {
+              if (!ttsEnabled || !text || text.trim() === '') return;
+              
+              // Cancel any current speech
+              if (currentUtterance) {
+                window.speechSynthesis.cancel();
+              }
+              
+              currentUtterance = new SpeechSynthesisUtterance(text);
+              // Use a fun, friendly voice if available!
+              const voices = window.speechSynthesis.getVoices();
+              const funVoice = voices.find(v => v.name.includes('Google UK English Female') || 
+                                                v.name.includes('Daniel') || 
+                                                v.name.includes('Alex') ||
+                                                v.lang.startsWith('en'));
+              if (funVoice) {
+                currentUtterance.voice = funVoice;
+              }
+              currentUtterance.rate = 1.0;
+              currentUtterance.pitch = 1.0;
+              
+              // Add some Bicky sparkle to the speech!
+              window.speechSynthesis.speak(currentUtterance);
+            }
+
+            // Enable TTS on hover for all text elements
+            document.addEventListener('mouseover', function(e) {
+              if (!ttsEnabled) return;
+              
+              let target = e.target;
+              // Find the nearest text-containing element
+              while (target && target !== document.body) {
+                if (target.textContent && target.textContent.trim() !== '' && 
+                    target.textContent.length < 500) { // Don't read huge blocks
+                  // Skip elements that are purely decorative
+                  if (target.tagName === 'SCRIPT' || target.tagName === 'STYLE' || 
+                      target.tagName === 'LINK' || target.tagName === 'META') {
+                    target = target.parentNode;
+                    continue;
+                  }
+                  
+                  // Get clean text (remove extra whitespace)
+                  const text = target.textContent.trim();
+                  
+                  // Skip very short or placeholder text
+                  if (text.length > 3 && !text.match(/^[\s\.\,\!\?\#]+$/)) {
+                    speakText(text);
+                    break;
+                  }
+                }
+                target = target.parentNode;
+              }
+            });
+
+            // Toggle TTS on/off with Ctrl+Shift+T
+            document.addEventListener('keydown', function(e) {
+              if (e.ctrlKey && e.shiftKey && e.key === 'T') {
+                e.preventDefault();
+                ttsEnabled = !ttsEnabled;
+                const status = ttsEnabled ? 'ENABLED' : 'DISABLED';
+                speakText(`TTS ${status}. Press Ctrl+Shift+T to toggle.`);
+              }
+            });
+
+            function toggleTTS() {
+              ttsEnabled = !ttsEnabled;
+              const button = document.getElementById('tts-toggle');
+              if (button) {
+                button.innerHTML = ttsEnabled ? '🎤 TTS ON HOVER (for Andrée!) ✨' : '🔇 TTS OFF (for Andrée) 💔';
+              }
+              const status = ttsEnabled ? 'ENABLED' : 'DISABLED';
+              speakText(`TTS ${status}. Hover over text to hear it read aloud!`);
+            }
           </script>
         </header>
         <main>
