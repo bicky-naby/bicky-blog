@@ -1,0 +1,83 @@
+/* WINDOWS 3.1 HOTDOG STAND THEME FOR ANDREE 🌭💛 */
+/* This is the ICONIC color blind mode - red text on yellow background */
+
+.hotdog-mode body {
+    background-color: #FFFF00 !important; /* YELLOW background */
+    color: #FF0000 !important; /* RED text */
+    background-image: none !important;
+}
+
+.hotdog-mode header,
+.hotdog-mode h1,
+.hotdog-mode h2,
+.hotdog-mode h3,
+.hotdog-mode h4,
+.hotdog-mode h5,
+.hotdog-mode h6 {
+    color: #FF0000 !important; /* RED headers */
+    background-color: #FFFF00 !important; /* YELLOW background */
+    text-shadow: none !important;
+}
+
+.hotdog-mode main,
+.hotdog-mode p,
+.hotdog-mode li,
+.hotdog-mode div {
+    color: #FF0000 !important; /* RED text */
+    background-color: #FFFF00 !important; /* YELLOW background */
+}
+
+.hotdog-mode a {
+    color: #FF0000 !important; /* RED links */
+    text-decoration: underline;
+}
+
+.hotdog-mode a:visited {
+    color: #CC0000 !important; /* Darker red for visited */
+}
+
+.hotdog-mode footer {
+    color: #FF0000 !important; /* RED footer text */
+    background-color: #FFFF00 !important; /* YELLOW footer */
+}
+
+.hotdog-mode table {
+    background-color: #FFFF00 !important; /* YELLOW table */
+}
+
+.hotdog-mode td {
+    background-color: #FFFF00 !important; /* YELLOW cells */
+    color: #FF0000 !important; /* RED text */
+}
+
+.hotdog-mode .guestbook {
+    background-color: #FFFF00 !important; /* YELLOW guestbook */
+    border-color: #FF0000 !important; /* RED border */
+    color: #FF0000 !important; /* RED text */
+}
+
+.hotdog-mode .marquee {
+    color: #FF0000 !important; /* RED marquee */
+}
+
+.hotdog-mode .blink {
+    color: #FF0000 !important; /* RED blink text */
+}
+
+.hotdog-mode ::-webkit-scrollbar-track {
+    background: #FFFF00 !important; /* YELLOW scrollbar track */
+}
+
+.hotdog-mode ::-webkit-scrollbar-thumb {
+    background: #FF0000 !important; /* RED scrollbar thumb */
+    animation: none !important;
+}
+
+.hotdog-mode ::-webkit-scrollbar-thumb::before {
+    display: none !important;
+}
+
+/* Simple hotdog stand cursor for the mode */
+.hotdog-mode html {
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><rect width="32" height="32" fill="%23FFFF00"/><text x="16" y="20" font-family="Arial" font-size="16" fill="%23FF0000" text-anchor="middle">🌭</text></svg>'), auto !important;
+}
