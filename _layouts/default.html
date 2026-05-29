@@ -11,8 +11,9 @@
     html { cursor: url('https://blob.gifcities.org/gifcities/22NBAQSNBJ6OB6NCT5SXTTFGMBV7DJCY.gif'), auto; }
   </style>
 </head>
-<body>
-  <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<body class="hotdog-mode">
+  <link rel="stylesheet" href="{{ "/assets/css/hotdog.css" | relative_url }}">
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFF00">
     <tr>
       <td colspan="3" align="center">
         <div class="construction">
@@ -34,7 +35,7 @@
           </div>
           <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
             <button id="hotdog-toggle" onclick="toggleHotdogMode()" style="background: #FFFF00; color: #FF0000; border: 4px solid #FF0000; padding: 8px 18px; font-family: 'Comic Sans MS', cursive; font-weight: bold; cursor: pointer; border-radius: 0; box-shadow: 4px 4px 0 #000000; margin: 4px;">
-              🌭 HOTDOG MODE IS STANDARD (click for sparkle mode) 🌭
+              🌭 HOTDOG MODE (for Andree) IS STANDARD 🌭
             </button>
           </div>
           <script>
@@ -53,9 +54,9 @@
               var button = document.getElementById('hotdog-toggle');
               if (!button) return;
               if (document.body.classList.contains('hotdog-mode')) {
-                button.innerHTML = '🌭 HOTDOG MODE IS STANDARD (click for sparkle mode) 🌭';
+                button.innerHTML = '🌭 HOTDOG MODE (for Andree) IS STANDARD 🌭';
               } else {
-                button.innerHTML = '✨ SPARKLE MODE IS VISITING (click for hotdog mode) ✨';
+                button.innerHTML = '✨ SPARKLE MODE (click for Andree\'s hotdog mode) ✨';
               }
             }
 
