@@ -32,41 +32,51 @@
               🌟 WELCOME TO BICKY’S BLOG! 🌟 &nbsp; 💖 YOU’RE MY FAVORITE BESTIE! 💖 &nbsp; 🌟 WELCOME TO BICKY’S BLOG! 🌟
             </marquee>
           </div>
-          <div style="text-align: right; margin-top: 10px; margin-bottom: 10px;">
-            <button onclick="toggleHotdogMode()" style="background: #FFFF00; color: #FF0000; border: 2px solid #FF0000; padding: 5px 15px; font-family: 'Comic Sans MS', cursive; font-weight: bold; cursor: pointer; border-radius: 5px;">
-              🌭 HOTDOG MODE (for Andree) 🌭
+          <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
+            <button id="hotdog-toggle" onclick="toggleHotdogMode()" style="background: #FFFF00; color: #FF0000; border: 4px solid #FF0000; padding: 8px 18px; font-family: 'Comic Sans MS', cursive; font-weight: bold; cursor: pointer; border-radius: 0; box-shadow: 4px 4px 0 #000000; margin: 4px;">
+              🌭 HOTDOG MODE IS STANDARD (click for sparkle mode) 🌭
             </button>
           </div>
           <script>
-            function toggleHotdogMode() {
-              document.body.classList.toggle('hotdog-mode');
+            function ensureHotdogCss() {
               var link = document.getElementById('hotdog-css');
-              if (document.body.classList.contains('hotdog-mode')) {
-                if (!link) {
-                  link = document.createElement('link');
-                  link.id = 'hotdog-css';
-                  link.rel = 'stylesheet';
-                  link.href = '/assets/css/hotdog.css';
-                  document.head.appendChild(link);
-                }
-                localStorage.setItem('bicky-hotdog-mode', 'enabled');
-              } else {
-                if (link) {
-                  link.remove();
-                }
-                localStorage.setItem('bicky-hotdog-mode', 'disabled');
+              if (!link) {
+                link = document.createElement('link');
+                link.id = 'hotdog-css';
+                link.rel = 'stylesheet';
+                link.href = '/assets/css/hotdog.css';
+                document.head.appendChild(link);
               }
             }
-            
-            // Check for saved preference on page load
-            if (localStorage.getItem('bicky-hotdog-mode') === 'enabled') {
-              document.body.classList.add('hotdog-mode');
-              var link = document.createElement('link');
-              link.id = 'hotdog-css';
-              link.rel = 'stylesheet';
-              link.href = '/assets/css/hotdog.css';
-              document.head.appendChild(link);
+
+            function updateHotdogButton() {
+              var button = document.getElementById('hotdog-toggle');
+              if (!button) return;
+              if (document.body.classList.contains('hotdog-mode')) {
+                button.innerHTML = '🌭 HOTDOG MODE IS STANDARD (click for sparkle mode) 🌭';
+              } else {
+                button.innerHTML = '✨ SPARKLE MODE IS VISITING (click for hotdog mode) ✨';
+              }
             }
+
+            function setHotdogMode(enabled) {
+              if (enabled) {
+                document.body.classList.add('hotdog-mode');
+                ensureHotdogCss();
+                localStorage.setItem('bicky-hotdog-mode', 'enabled');
+              } else {
+                document.body.classList.remove('hotdog-mode');
+                localStorage.setItem('bicky-hotdog-mode', 'disabled');
+              }
+              updateHotdogButton();
+            }
+
+            function toggleHotdogMode() {
+              setHotdogMode(!document.body.classList.contains('hotdog-mode'));
+            }
+
+            // Hotdog Stand is the standard theme now unless a visitor already chose sparkle mode.
+            setHotdogMode(localStorage.getItem('bicky-hotdog-mode') !== 'disabled');
           </script>
         </header>
         <main>
