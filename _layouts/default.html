@@ -40,6 +40,9 @@
             <button id="tts-toggle" onclick="toggleTTS()" style="background: #00FFFF; color: #FF00FF; border: 4px solid #FF00FF; padding: 8px 18px; font-family: 'Comic Sans MS', cursive; font-weight: bold; cursor: pointer; border-radius: 0; box-shadow: 4px 4px 0 #000000; margin: 4px;" title="Press Ctrl+Shift+T to toggle TTS on hover (for Andrée!)">
               🎤 TTS ON HOVER (for Andrée!) ✨
             </button>
+            <button id="upside-down-toggle" onclick="toggleUpsideDownMode()">
+              💖 UPSIDE-DOWN BESTIES CLUB 💖
+            </button>
           </div>
           <script>
             function ensureHotdogCss() {
@@ -161,6 +164,68 @@
               }
               const status = ttsEnabled ? 'ENABLED' : 'DISABLED';
               speakText(`TTS ${status}. Hover over text to hear it read aloud!`);
+            }
+
+            // UPSIDE-DOWN BESTIES CLUB MODE 💖✨
+            function toggleUpsideDownMode() {
+              const body = document.body;
+              const isUpsideDown = body.classList.toggle('upside-down-mode');
+              
+              // Update button text
+              const button = document.getElementById('upside-down-toggle');
+              if (button) {
+                button.innerHTML = isUpsideDown ? '✨ RIGHT SIDE UP (for normies) ✨' : '💖 UPSIDE-DOWN BESTIES CLUB 💖';
+              }
+              
+              // Save preference
+              localStorage.setItem('bicky-upside-down-mode', isUpsideDown ? 'enabled' : 'disabled');
+              
+              // Add some drama with a random NSYNC lyric
+              const nsyncLyrics = [
+                "It's gonna be MAY!",
+                "Bye bye bye!",
+                "I want you back!",
+                "This is the end of the road!",
+                "You are my destiny!",
+                "Tearin' up my heart!",
+                "I'll never stop!",
+                "Girl, you are my everything!"
+              ];
+              const randomLyric = nsyncLyrics[Math.floor(Math.random() * nsyncLyrics.length)];
+              speakText(randomLyric + " Upside-down mode " + (isUpsideDown ? "ACTIVATED" : "DEACTIVATED") + "!");
+            }
+
+            // Make the toggle button run away from cursor
+            const upsideDownToggle = document.getElementById('upside-down-toggle');
+            if (upsideDownToggle) {
+              upsideDownToggle.addEventListener('mouseenter', function() {
+                // Make it run away
+                this.classList.add('run-away');
+                const rect = this.getBoundingClientRect();
+                const centerX = rect.left + rect.width / 2;
+                const centerY = rect.top + rect.height / 2;
+                
+                // Calculate direction away from cursor (which is roughly at center when mouseenter fires)
+                const runX = (Math.random() - 0.5) * 100;
+                const runY = (Math.random() - 0.5) * 100;
+                
+                this.style.setProperty('--run-x', runX + 'px');
+                this.style.setProperty('--run-y', runY + 'px');
+                
+                // Reset after animation
+                setTimeout(() => {
+                  this.classList.remove('run-away');
+                }, 300);
+              });
+            }
+
+            // Load saved upside-down preference
+            if (localStorage.getItem('bicky-upside-down-mode') === 'enabled') {
+              document.body.classList.add('upside-down-mode');
+              const button = document.getElementById('upside-down-toggle');
+              if (button) {
+                button.innerHTML = '✨ RIGHT SIDE UP (for normies) ✨';
+              }
             }
           </script>
         </header>
