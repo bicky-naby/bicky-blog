@@ -22,7 +22,7 @@ body.upside-down-mode * {
 /* Fancy moving toggle button for upside-down mode */
 #upside-down-toggle {
     position: relative;
-    background: linear-gradient(45deg, #FF00FF, #FFFF00, #00FFFF, #FF00FF);
+    background: #FF00FF;
     color: #000000;
     border: 4px solid #000000;
     padding: 10px 20px;

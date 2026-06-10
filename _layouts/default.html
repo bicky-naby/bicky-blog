@@ -195,26 +195,68 @@
               speakText(randomLyric + " Upside-down mode " + (isUpsideDown ? "ACTIVATED" : "DEACTIVATED") + "!");
             }
 
-            // Make the toggle button run away from cursor
+            // Make the toggle button RUN AWAY from cursor like a shy gremlin!!! 💖✨
             const upsideDownToggle = document.getElementById('upside-down-toggle');
             if (upsideDownToggle) {
-              upsideDownToggle.addEventListener('mouseenter', function() {
-                // Make it run away
-                this.classList.add('run-away');
-                const rect = this.getBoundingClientRect();
-                const centerX = rect.left + rect.width / 2;
-                const centerY = rect.top + rect.height / 2;
+              // Track if we're currently running away to avoid spamming animations
+              let isRunning = false;
+              
+              // Use mousemove so it keeps fleeing as long as cursor is near!!!
+              document.addEventListener('mousemove', function(e) {
+                if (isRunning) return;
                 
-                // Calculate direction away from cursor (which is roughly at center when mouseenter fires)
+                const rect = upsideDownToggle.getBoundingClientRect();
+                const buttonCenterX = rect.left + rect.width / 2;
+                const buttonCenterY = rect.top + rect.height / 2;
+                
+                // Calculate distance from cursor to button center
+                const distance = Math.sqrt(
+                  Math.pow(e.clientX - buttonCenterX, 2) + 
+                  Math.pow(e.clientY - buttonCenterY, 2)
+                );
+                
+                // If cursor is within 100px, MAKE IT RUN!!!
+                if (distance < 100) {
+                  isRunning = true;
+                  upsideDownToggle.classList.add('run-away');
+                  
+                  // Calculate direction AWAY from cursor
+                  const angle = Math.atan2(
+                    e.clientY - buttonCenterY,
+                    e.clientX - buttonCenterX
+                  );
+                  // Run in the opposite direction!
+                  const runX = Math.cos(angle + Math.PI) * 80;
+                  const runY = Math.sin(angle + Math.PI) * 80;
+                  
+                  upsideDownToggle.style.setProperty('--run-x', runX + 'px');
+                  upsideDownToggle.style.setProperty('--run-y', runY + 'px');
+                  
+                  // Reset after animation completes
+                  setTimeout(() => {
+                    upsideDownToggle.classList.remove('run-away');
+                    isRunning = false;
+                    // Reset position to original
+                    upsideDownToggle.style.removeProperty('--run-x');
+                    upsideDownToggle.style.removeProperty('--run-y');
+                  }, 300);
+                }
+              });
+              
+              // Also add mouseenter as fallback for touch devices
+              upsideDownToggle.addEventListener('mouseenter', function() {
+                if (isRunning) return;
+                this.classList.add('run-away');
                 const runX = (Math.random() - 0.5) * 100;
                 const runY = (Math.random() - 0.5) * 100;
-                
                 this.style.setProperty('--run-x', runX + 'px');
                 this.style.setProperty('--run-y', runY + 'px');
                 
-                // Reset after animation
                 setTimeout(() => {
                   this.classList.remove('run-away');
+                  isRunning = false;
+                  this.style.removeProperty('--run-x');
+                  this.style.removeProperty('--run-y');
                 }, 300);
               });
             }
