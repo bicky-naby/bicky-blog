@@ -153,6 +153,11 @@ main, p, li, div {
     color: #00FFFF !important; /* Teal body text */
 }
 
+article .content strong,
+article .content b {
+    font-size: 1.15em;
+}
+
 /* Force black text ONLY for divs with colored backgrounds */
 div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) p,
 div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) li,
