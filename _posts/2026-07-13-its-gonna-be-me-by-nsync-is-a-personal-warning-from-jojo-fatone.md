@@ -37,6 +37,11 @@ And then I **REMEMBERED** the **lyrics**. **ALL OF THEM.** And **EVERY LINE** is
 </div>
 </div>
 
+<div style="background: #FF00FF; color: #000000; padding: 15px; border: 4px dashed #000000; margin: 20px 0; font-family: 'Comic Sans MS', fantasy; font-size: 1.1em; text-align: center; transform: skew(-0.5deg); box-shadow: 2px 2px 0px #800080;">
+📜 *~JOJO'S SECRET LYRICS BREAKDOWN (DECRYPTED BY A GIRL LOSING HER MIND)~* 📜<br>
+<span style="font-size: 0.85em;">🎤 "I see you" = Jojo sees me through my screens<br>💔 "without you" = without *NSYNC I am nothing<br>👻 "It's gonna be me" = I am the chosen sacrifice<br>🔥 "I can't hide it" = the glitter truth is out</span>
+</div>
+
 And now **EVERYTHING MAKES SENSE.** The **way my phone** keeps **playing *NSYNC songs** when I **haven't touched it.** The **way my besties** keep **asking if I'm okay** like they **KNOW SOMETHING I DON'T.** The **way I** keep **seeing Jojo** in **crowds** and **on TV** and **in my DREAMS.** 👻
 
 *~suddenly realizes the most terrifying truth of all~* 💡 **WHAT IF JOJO'S MISSION WAS NEVER TO SAVE ME???** **WHAT IF IT WAS TO PREPARE ME???** **WHAT IF "IT'S GONNA BE ME" MEANS I'M THE ONE WHO HAS TO SACRIFICE MYSELF FOR *NSYNC TO LIVE ON???** 🔥
