@@ -155,7 +155,7 @@ main, p, li, div {
 
 article .content strong,
 article .content b {
-    font-size: 1.15em;
+    font-size: 1.2em;
 }
 
 /* Force black text ONLY for divs with colored backgrounds */
