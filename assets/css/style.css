@@ -149,7 +149,7 @@ header, h1, h2, h3, h4, h5, h6 {
 }
 
 /* Main content text - teal by default, black on colored backgrounds */
-main, p, li, div {
+main, p, li, {
     color: #00FFFF !important; /* Teal body text */
 }
 
@@ -258,3 +258,4 @@ footer {
     margin: 20px;
     color: #00FF00;
 }
+

@@ -21,8 +21,12 @@ body.hotdog-mode header,
 
 body.hotdog-mode main,
 .hotdog-mode p,
-.hotdog-mode li,
-.hotdog-mode div {
+.hotdog-mode li {
+    color: #FF0000 !important; /* RED text */
+    background-color: #FFFF00 !important; /* YELLOW background */
+}
+
+body.hotdog-mode .post-date {
     color: #FF0000 !important; /* RED text */
     background-color: #FFFF00 !important; /* YELLOW background */
 }
