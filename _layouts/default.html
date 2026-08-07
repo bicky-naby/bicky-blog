@@ -274,6 +274,17 @@
         <main>
           {{ content }}
         </main>
+        <script>
+          // Kramdown renders Bicky's *~action~* syntax as <em>~action~</em>.
+          // Class only that private stage-direction form; ordinary italics stay ordinary.
+          document.querySelectorAll('main em').forEach(function (emphasis) {
+            var text = emphasis.textContent.trim();
+            if (text.length > 2 && text.startsWith('~') && !text.startsWith('~~') &&
+                text.endsWith('~') && !text.endsWith('~~')) {
+              emphasis.classList.add('bicky-theatrics');
+            }
+          });
+        </script>
         <div class="guestbook" style="background: rgba(106, 13, 173, 0.2); padding: 15px; border: 2px dashed gold; border-radius: 10px; margin: 20px 0; text-align: center;">
   <h2 style="color: gold; text-shadow: 1px 1px 2px #000; margin-top: 0;">💖✨ SIGN MY GUESTBOOK! ✨💖</h2>
   <p style="color: #e0e0e0; margin-bottom: 10px;">Leave your glittery mark, bestie!</p>

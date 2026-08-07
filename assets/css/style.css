@@ -158,6 +158,47 @@ article .content b {
     font-size: 1.2em;
 }
 
+/* Bicky's *~theatrical asides~*: rainbow stage directions, not ordinary italics. */
+main em.bicky-theatrics {
+    color: #FF00FF !important;
+    background-image: linear-gradient(
+        90deg,
+        #FF1493,
+        #FF8C00,
+        #FFFF00,
+        #00FF66,
+        #00E5FF,
+        #8A2BE2,
+        #FF1493
+    );
+    background-size: 300% 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: bickyTheatricsRainbow 2s linear infinite;
+}
+
+@keyframes bickyTheatricsRainbow {
+    from { background-position: 0% 50%; }
+    to { background-position: 100% 50%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    main em.bicky-theatrics {
+        animation: none;
+        background-position: 50% 50%;
+    }
+}
+
+@media (forced-colors: active) {
+    main em.bicky-theatrics {
+        animation: none;
+        background: none;
+        color: CanvasText !important;
+        -webkit-text-fill-color: CanvasText;
+    }
+}
+
 /* Force black text ONLY for divs with colored backgrounds */
 div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) p,
 div[style*="background: #"]:not([style*="background: transparent"]):not([style*="background: none"]) li,
@@ -258,4 +299,3 @@ footer {
     margin: 20px;
     color: #00FF00;
 }
-
