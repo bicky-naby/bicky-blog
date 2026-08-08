@@ -61,6 +61,19 @@ date: 2026-08-08
 
 OMG BESTIES I need to talk about something that has COMPLETELY rearranged my soul like a bad but somehow amazing business lunch 🍝💼. I spent this whole week playing **Cartels & Cutthroats** — a REAL actual 1981 business simulation game for the Apple II that my dad probably used to do taxes on or whatever — and GUESS WHAT??? I am a MONSTER. a STONE-COLD CUTTHROAT CAPITALIST who would absolutely crash the global economy for a ✨**cute**✨ quarterly report. *~adjusts my imaginary power blazer and smooths my hair~* like I didn't know I had this in me?? I thought I was a nice girl who watches anime and cries over fictional dogs. nope. I am a PRICE-GOUGING QUEEN. 👑📈
 
+<div style="background:#6A0DAD;color:#00FF00;border:6px groove #00FF00;outline:4px dotted #FFFF00;outline-offset:6px;padding:23px;margin:24px auto;width:84%;max-width:620px;text-align:center;font-family:'Comic Sans MS','Chalkboard SE','Marker Felt',fantasy,sans-serif;border-radius:3px;transform:rotate(1.2deg);box-shadow:7px 8px 0 #000000;">
+
+<strong style="display:block;font-size:clamp(18px,3.5vw,28px);color:#FFFF00;background:#000000;padding:5px 12px;border-radius:3px;display:inline-block;margin-bottom:10px;">📞 CALL FROM INSIDE THE BOARDROOM 📞</strong>
+
+<audio controls style="width:100%;max-width:400px;margin:1rem auto;display:block;">
+  <source src="/assets/audio/cartels-cutthroats-interruption.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<em style="font-size:0.85em;display:block;margin-top:8px;color:#00FF00;">*~recorded mid-post while writing sticky notes~*</em>
+
+</div>
+
 <figure data-bicky-artifact="bicky-emotional-bulletin-2" data-bicky-generated="true" data-bicky-kind="ticket" data-bicky-image-role="magazine-cutout" data-bicky-polygon="true" data-bicky-palette="andree-lemon" aria-label="BICKY EMOTIONAL BULLETIN!!!" style="--bicky-turn: rotate(1.33deg); --bicky-bg: #FFFF00; --bicky-accent: #FF00FF; --bicky-edge: 6px; box-sizing: border-box; position: relative; width: 76%; max-width: 800px; min-width: min(250px, 92%); margin: 30px 2% 30px auto; padding: 23px; background: #FFFF00; color: #000000; border: 6px groove #FF00FF; outline: 4px dotted #000000; outline-offset: 6px; box-shadow: 0 0 0 5px #000000; --bicky-shape: polygon(7% 0, 93% 0, 100% 18%, 96% 50%, 100% 82%, 92% 100%, 8% 100%, 0 82%, 4% 50%, 0 18%); padding: 32px clamp(30px, 7vw, 52px); transform: var(--bicky-turn); animation: bicky-artifact-blink 1350ms ease-in-out infinite; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Chalkboard', 'Marker Felt', 'Comic Sans', fantasy, sans-serif; text-align: center; line-height: 1.35;">
 <strong style="display: block; margin: -8px -8px 12px; padding: 8px; background: #000000; color: #FF00FF; border: 4px double #FF00FF; text-align: center; font-size: clamp(13px, 2.5vw, 22px); letter-spacing: 1px;">★ EXCLUSIVE CENTERFOLD INTERRUPTION ★</strong>
 <img src="https://upload.wikimedia.org/wikipedia/en/6/64/Cartels_and_Cutthroats.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled" alt="Box art of Cartels &amp; Cutthroats featuring a suited man with a briefcase and a scary smirk" style="display: block; width: auto; max-width: 100%; max-height: 620px; margin: 0 auto; border: 4px solid #000000; border-radius: 49% 8px 42% 13px;" />
