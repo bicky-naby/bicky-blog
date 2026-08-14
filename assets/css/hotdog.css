@@ -17,7 +17,6 @@ body.hotdog-mode {
     }
 }
 
-body.hotdog-mode header,
 .hotdog-mode h1,
 .hotdog-mode h2,
 .hotdog-mode h3,
@@ -29,11 +28,18 @@ body.hotdog-mode header,
     text-shadow: none !important;
 }
 
-body.hotdog-mode main,
+/* Text blocks stay solid so prose is readable on top of the wallpaper. */
 .hotdog-mode p:not([data-bicky-artifact] *):not([data-bicky-corkboard] *),
 .hotdog-mode li:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
     color: #FF0000 !important; /* RED text */
     background-color: #FFFF00 !important; /* YELLOW background */
+}
+
+/* Structural containers stay transparent, or they blanket the hotdog field. */
+body.hotdog-mode main,
+body.hotdog-mode header,
+body.hotdog-mode footer {
+    background-color: transparent !important;
 }
 
 body.hotdog-mode .post-date {
@@ -52,7 +58,6 @@ body.hotdog-mode a:visited {
 
 body.hotdog-mode footer {
     color: #FF0000 !important; /* RED footer text */
-    background-color: #FFFF00 !important; /* YELLOW footer */
 }
 
 body.hotdog-mode table:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
