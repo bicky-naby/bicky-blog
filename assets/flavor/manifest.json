@@ -1,0 +1,205 @@
+[
+ {
+  "name": "asp-banana",
+  "w": 33,
+  "h": 35,
+  "frames": 8,
+  "bytes": 1606
+ },
+ {
+  "name": "book-dancer",
+  "w": 144,
+  "h": 39,
+  "frames": 8,
+  "bytes": 9490
+ },
+ {
+  "name": "cat-cl",
+  "w": 32,
+  "h": 32,
+  "frames": 9,
+  "bytes": 1087
+ },
+ {
+  "name": "cat-mao",
+  "w": 32,
+  "h": 37,
+  "frames": 27,
+  "bytes": 7961
+ },
+ {
+  "name": "cat-mao-2",
+  "w": 59,
+  "h": 24,
+  "frames": 32,
+  "bytes": 12058
+ },
+ {
+  "name": "clipart-pbi",
+  "w": 115,
+  "h": 97,
+  "frames": 2,
+  "bytes": 2341
+ },
+ {
+  "name": "dance-dancer",
+  "w": 99,
+  "h": 79,
+  "frames": 2,
+  "bytes": 7960
+ },
+ {
+  "name": "dance-turn",
+  "w": 117,
+  "h": 80,
+  "frames": 3,
+  "bytes": 7365
+ },
+ {
+  "name": "dancing-bears",
+  "w": 50,
+  "h": 50,
+  "frames": 8,
+  "bytes": 6976
+ },
+ {
+  "name": "dancing-bears-2",
+  "w": 59,
+  "h": 53,
+  "frames": 16,
+  "bytes": 6263
+ },
+ {
+  "name": "dancing-bears-3",
+  "w": 100,
+  "h": 100,
+  "frames": 5,
+  "bytes": 21538
+ },
+ {
+  "name": "dancing-lady",
+  "w": 32,
+  "h": 59,
+  "frames": 2,
+  "bytes": 1128
+ },
+ {
+  "name": "dancing-troll",
+  "w": 55,
+  "h": 70,
+  "frames": 2,
+  "bytes": 4341
+ },
+ {
+  "name": "dutch-rabbit",
+  "w": 74,
+  "h": 40,
+  "frames": 22,
+  "bytes": 7174
+ },
+ {
+  "name": "heartland-dance",
+  "w": 92,
+  "h": 64,
+  "frames": 14,
+  "bytes": 7737
+ },
+ {
+  "name": "heartland-dance-2",
+  "w": 96,
+  "h": 88,
+  "frames": 14,
+  "bytes": 10811
+ },
+ {
+  "name": "heartland-meadows",
+  "w": 100,
+  "h": 55,
+  "frames": 4,
+  "bytes": 3354
+ },
+ {
+  "name": "kiki-baby",
+  "w": 42,
+  "h": 32,
+  "frames": 2,
+  "bytes": 831
+ },
+ {
+  "name": "kiki-baby-2",
+  "w": 42,
+  "h": 40,
+  "frames": 4,
+  "bytes": 2214
+ },
+ {
+  "name": "kiki-baby-3",
+  "w": 58,
+  "h": 31,
+  "frames": 2,
+  "bytes": 818
+ },
+ {
+  "name": "kiki-baby-4",
+  "w": 47,
+  "h": 40,
+  "frames": 11,
+  "bytes": 5438
+ },
+ {
+  "name": "kiki-baby-5",
+  "w": 56,
+  "h": 36,
+  "frames": 12,
+  "bytes": 5648
+ },
+ {
+  "name": "kiki-baby-6",
+  "w": 64,
+  "h": 36,
+  "frames": 6,
+  "bytes": 3773
+ },
+ {
+  "name": "kiki-baby-7",
+  "w": 56,
+  "h": 43,
+  "frames": 12,
+  "bytes": 8128
+ },
+ {
+  "name": "kiki-baby-8",
+  "w": 60,
+  "h": 42,
+  "frames": 10,
+  "bytes": 4325
+ },
+ {
+  "name": "kpsmiling1-girl",
+  "w": 64,
+  "h": 64,
+  "frames": 32,
+  "bytes": 7384
+ },
+ {
+  "name": "man-des",
+  "w": 120,
+  "h": 37,
+  "frames": 9,
+  "bytes": 7107
+ },
+ {
+  "name": "tlr34geo-dancing",
+  "w": 70,
+  "h": 65,
+  "frames": 9,
+  "bytes": 5368
+ },
+ {
+  "name": "tx-ipg",
+  "w": 33,
+  "h": 35,
+  "frames": 8,
+  "bytes": 2761
+ }
+]
