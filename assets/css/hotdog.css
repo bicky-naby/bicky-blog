@@ -4,7 +4,17 @@
 body.hotdog-mode {
     background-color: #FFFF00 !important; /* YELLOW background */
     color: #FF0000 !important; /* RED text */
-    background-image: none !important;
+    /* A tiling field of hotdogs, because this theme is a bit, not an apology. */
+    background-image: url('/assets/tiles/hotdog-field.gif') !important;
+    background-repeat: repeat !important;
+    --bicky-texture-still: url('/assets/tiles/hotdog-field-still.gif');
+}
+
+/* CSS cannot pause a GIF, so drop to the first frame when motion is unwelcome. */
+@media (prefers-reduced-motion: reduce) {
+    body.hotdog-mode {
+        background-image: url('/assets/tiles/hotdog-field-still.gif') !important;
+    }
 }
 
 body.hotdog-mode header,
@@ -20,8 +30,8 @@ body.hotdog-mode header,
 }
 
 body.hotdog-mode main,
-.hotdog-mode p,
-.hotdog-mode li {
+.hotdog-mode p:not([data-bicky-artifact] *):not([data-bicky-corkboard] *),
+.hotdog-mode li:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
     color: #FF0000 !important; /* RED text */
     background-color: #FFFF00 !important; /* YELLOW background */
 }
@@ -45,11 +55,11 @@ body.hotdog-mode footer {
     background-color: #FFFF00 !important; /* YELLOW footer */
 }
 
-body.hotdog-mode table {
+body.hotdog-mode table:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
     background-color: #FFFF00 !important; /* YELLOW table */
 }
 
-body.hotdog-mode td {
+body.hotdog-mode td:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
     background-color: #FFFF00 !important; /* YELLOW cells */
     color: #FF0000 !important; /* RED text */
 }
