@@ -12,7 +12,6 @@ i cleared the coffee table 🫳☕ the cat watched from the bookshelf with an ex
 
 and then i did some THINGS.
 
-```html
 <style data-bicky-artifact-styles>
 @keyframes bicky-artifact-wobble {
   from { transform: var(--bicky-turn) rotate(-2deg); }
@@ -74,33 +73,27 @@ and then i did some THINGS.
 </table>
 <div style="margin-top: 12px; padding: 10px; background: #4B0082; color: #FFFF00; border: 4px dashed #FFFF00; text-align: center; font-weight: 900;">I would like to thank the YouTube compression algorithm for leaving out the crucial footwork frames.</div>
 </div>
-```
 
-```html
 <figure data-bicky-artifact="bicky-emotional-bulletin-2" data-bicky-generated="true" data-bicky-kind="burst" data-bicky-image-role="evidence-thumb" data-bicky-polygon="true" data-bicky-palette="tangerine-alarm" data-bicky-texture="sric2-sparkle" aria-label="BICKY EMOTIONAL BULLETIN!!!" style="--bicky-turn: rotate(3.60deg); --bicky-bg: #FF4500; --bicky-accent: #FFFF00; --bicky-edge: 6px; box-sizing: border-box; position: relative; width: 42%; max-width: 430px; min-width: min(250px, 92%); margin: 28px 4% 28px auto; padding: 23px; background-color: #FF4500; --bicky-texture-still: url('/assets/tiles/sric2-sparkle-still.gif'); background-image: url('/assets/tiles/sric2-sparkle.gif'); background-repeat: repeat; color: #000000; border: 6px ridge #FFFF00; outline: 4px dotted #4B0082; outline-offset: 6px; box-shadow: 7px 8px 0 #4B0082; --bicky-shape: polygon(50% 0%, 61% 24%, 85% 8%, 78% 35%, 100% 50%, 76% 61%, 91% 88%, 62% 78%, 50% 100%, 39% 77%, 10% 91%, 24% 62%, 0% 50%, 23% 37%, 8% 10%, 38% 24%); padding: 46px clamp(35px, 9vw, 68px); transform: var(--bicky-turn);  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Chalkboard', 'Marker Felt', 'Comic Sans', fantasy, sans-serif; text-align: center; line-height: 1.35;">
 <strong style="display: block; margin: -8px -8px 12px; padding: 8px; background: #4B0082; color: #FFFF00; border: 4px double #FFFF00; text-align: center; font-size: clamp(13px, 2.5vw, 22px); letter-spacing: 1px;">📌 EVIDENCE THUMBNAIL 2</strong>
 <img src="https://media4.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlM20xeXY2Z2J6ZDVlczZjaXh5d3JheWg4MGdzYWNsc2l5N21oamZqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ph8vUpykrJJCXNIl2K/200.gif" alt="rhythmic gymnast performing with ribbon in Paris" style="display: block; width: auto; max-width: 100%; max-height: 620px; margin: 0 auto; border: 4px solid #4B0082; border-radius: 3px 18px 2px 11px;" />
 <figcaption style="display: block; margin: 10px auto 0; padding: 7px 10px; max-width: 92%; border: 3px ridge #4B0082; font-weight: 700; background: #00FFFF; color: #000000; border-radius: 3px; font-family: monospace;">this is WHAT I WAS TRYING TO DO. I was the mental image. the ghosts in the room.</figcaption>
 </figure>
-```
 
 the video showed a woman doing a turn where the ribbon went around her body like a spiral AND THEN she caught it with her back foot?? i rewound roughly forty-six times. i stood up. i held my ribbon (it was actually a curtain tieback but i had good ✨ ENERGY ✨). i SPUN. the ribbon went around my body exactly ONE time before wrapping itself around my neck like a SCARF that was trying to send a message. i spun again. the hoop (a literal hula hoop from target) flew off my finger, hit the lampshade, bounced off the cat's tail, and landed in the fishtank 🐟⚡ the fish did not look impressed but frankly neither was i.
 
 BUT THEN. the video cut to part two: the taylor swift era.
 
-```html
 <figure data-bicky-artifact="bicky-emotional-bulletin-3" data-bicky-generated="true" data-bicky-kind="blob" data-bicky-image-role="reaction-stamp" data-bicky-polygon="false" data-bicky-palette="candy-pink" aria-label="BICKY EMOTIONAL BULLETIN!!!" style="--bicky-turn: rotate(3.21deg); --bicky-bg: #FF69B4; --bicky-accent: #4B0082; --bicky-edge: 6px; box-sizing: border-box; position: relative; width: 34%; max-width: 360px; min-width: min(250px, 92%); margin: 24px auto 24px 7%; padding: 23px; background-color: #FF69B4; color: #000000; border: 6px solid #4B0082; outline: 4px dotted #4B0082; outline-offset: 6px; box-shadow: -6px 7px 0 #4B0082; border-radius: 57% 43% 68% 32% / 39% 61% 42% 58%; transform: var(--bicky-turn); animation: bicky-artifact-bounce 900ms ease-in-out infinite; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Chalkboard', 'Marker Felt', 'Comic Sans', fantasy, sans-serif; text-align: center; line-height: 1.35;">
 <strong style="display: block; margin: -8px -8px 12px; padding: 8px; background: #4B0082; color: #FFFF00; border: 4px double #4B0082; text-align: center; font-size: clamp(13px, 2.5vw, 22px); letter-spacing: 1px;">LIVE REACTION STAMP</strong>
 <img src="https://media4.giphy.com/media/v1.Y2lkPWQ2NDA1MzBlM20xeXY2Z2J6ZDVlczZjaXh5d3JheWg4MGdzYWNsc2l5N21oamZqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/usQbSm3cnTZJK/200.gif" alt="taylor swift shaking it off" style="display: block; width: auto; max-width: 100%; max-height: 620px; margin: 0 auto; border: 4px solid #4B0082; border-radius: 50%;" />
 <figcaption style="display: block; margin: 10px auto 0; padding: 7px 10px; max-width: 92%; border: 3px solid #4B0082; font-weight: 700; background: #FF1493; color: #000000; border-radius: 50%; text-transform: uppercase;">when the hoop hit the lamp this song PLAYED in my soul.</figcaption>
 </figure>
-```
 
 the ribbon was now tangled in the ceiling fan. the hula hoop was dripping protest water onto the rug. the cat had migrated from the bookshelf to the top of the sofa, and he was sitting there like a LITERAL OLYMPIC JUDGE with his paws tucked under him, just watching. and i looked at him and i was like "was that good????" and he CLOSED HIS EYES SLOWLY. which is a cat kiss 😽 that is a PERFECT 10 in cat language. i AM aware that in human gymnastics a perfect 10 hasn't happened in years but in BICKY GYMNASTICS a cat slow blink is the highest score possible. the ribbon came loose from the fan and fell on my head like a lauRel wreath. the moment was ICONIC.
 
 so now i have evidence. i have the cat's official endorsement. i think i deserve some kind of recognition. a trophy. a certificate. something with a crooked seal that looks like it was printed at 3am by a very tired intern.
 
-```html
 <div data-bicky-artifact="official-participation-award-world-cup-failure-divisio-4" data-bicky-generated="true" data-bicky-kind="seal" data-bicky-polygon="false" data-bicky-palette="cyan-splash" aria-label="OFFICIAL PARTICIPATION AWARD — WORLD CUP FAILURE DIVISION" style="--bicky-turn: rotate(0.29deg); --bicky-bg: #00FFFF; --bicky-accent: #FF1493; --bicky-edge: 6px; box-sizing: border-box; position: relative; width: 78%; max-width: 720px; min-width: min(250px, 92%); margin: 24px auto; padding: 23px; background-color: #00FFFF; color: #000000; border: 6px groove #FF1493; outline: 4px dotted #4B0082; outline-offset: 6px; box-shadow: 0 0 0 5px #4B0082; border-radius: 50%; aspect-ratio: 1 / 1; transform: var(--bicky-turn); animation: bicky-artifact-wobble 620ms ease-in-out infinite; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Chalkboard', 'Marker Felt', 'Comic Sans', fantasy, sans-serif; text-align: center; line-height: 1.35;">
 
 <strong style="display: block; font-size: clamp(20px, 4vw, 35px); line-height: 1.05; color: #FF1493; font-weight: 900; text-shadow: 2px 2px 0 #4B0082;">OFFICIAL PARTICIPATION AWARD — WORLD CUP FAILURE DIVISION</strong>
@@ -108,7 +101,6 @@ so now i have evidence. i have the cat's official endorsement. i think i deserve
 
 <span aria-hidden="true" style="position: absolute; right: 7px; top: -1px; font-size: 36px; transform: rotate(14deg);">✨</span>
 </div>
-```
 
 the 2013 world cup circuit went through tartu, lisbon, bucharest, pesaro, sofia, corbeil-essonnes, minsk, and saint petersburg. i have now added my living room to that list. i am a new stop on the tour. i am the ninth event. my score is a cat blink and $15 in damaged home goods 🏠💸 and i think that's MORE than enough to be the overall series champion. the top scorers in each event were crowned winners of the final in saint petersburg. well i am the top scorer of my HEART and my cat's heart and that is a world cup i will accept.
 
