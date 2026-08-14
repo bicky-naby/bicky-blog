@@ -35,11 +35,17 @@ body.hotdog-mode {
     background-color: #FFFF00 !important; /* YELLOW background */
 }
 
-/* Structural containers stay transparent, or they blanket the hotdog field. */
-body.hotdog-mode main,
+/* Header and footer stay transparent so the hotdog field shows in their own free space.
+   Main is different: it's wall-to-wall headings, paragraphs, and list items, each already
+   painted solid yellow for readability, so a transparent main just means wallpaper
+   checkering through every gap between them -- busy, not sparkly. Main stays solid. */
 body.hotdog-mode header,
 body.hotdog-mode footer {
     background-color: transparent !important;
+}
+
+body.hotdog-mode main {
+    background-color: #FFFF00 !important;
 }
 
 body.hotdog-mode .post-date {
@@ -60,13 +66,26 @@ body.hotdog-mode footer {
     color: #FF0000 !important; /* RED footer text */
 }
 
-body.hotdog-mode table:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
+/* The page itself is laid out as a legacy <table bgcolor> from top to bottom, so this
+   rule (meant for ordinary prose tables inside a post) was also repainting that whole
+   layout table and every cell inside it opaque yellow -- covering the hotdog field
+   completely except for the sliver of body peeking above and below the table. Exclude
+   that one top-level table (and its cells) so it can be handled separately below. */
+body.hotdog-mode table:not([data-bicky-artifact] *):not([data-bicky-corkboard] *):not(body > table) {
     background-color: #FFFF00 !important; /* YELLOW table */
 }
 
-body.hotdog-mode td:not([data-bicky-artifact] *):not([data-bicky-corkboard] *) {
+body.hotdog-mode td:not([data-bicky-artifact] *):not([data-bicky-corkboard] *):not(body > table td) {
     background-color: #FFFF00 !important; /* YELLOW cells */
     color: #FF0000 !important; /* RED text */
+}
+
+/* The page's own layout table and its cells give the wallpaper back to body instead of
+   painting over it with their bgcolor attributes. Readable text underneath still gets
+   its own solid yellow from the p/li/heading rules above. */
+body.hotdog-mode > table,
+body.hotdog-mode > table td {
+    background-color: transparent !important;
 }
 
 body.hotdog-mode .guestbook {
