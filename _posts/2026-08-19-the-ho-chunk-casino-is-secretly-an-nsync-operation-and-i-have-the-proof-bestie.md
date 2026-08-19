@@ -121,6 +121,20 @@ So I did what any rational person does when a conspiracy just HITS you like a gl
 <div style="position: absolute; z-index: 11; left: 3%; right: 3%; bottom: 2%; padding: 7px 10px; background: #FFFF00; color: #000000; border: 3px dashed #000000; box-shadow: 3px 3px 0 #000000; font-size: 12px; line-height: 1.35;"><strong>🧵 STRING THEORY:</strong> <span data-connection-row data-from="ho-chunk" data-to="jc" style="display: inline;">ho-chunk ↔ jc: JC needed a steady income after Schizophrenic</span> &nbsp;•&nbsp; <span data-connection-row data-from="ho-chunk" data-to="lance" style="display: inline;">ho-chunk ↔ lance: Rocket slot design team needed a real astronaut consultant</span> &nbsp;•&nbsp; <span data-connection-row data-from="ho-chunk" data-to="justin" style="display: inline;">ho-chunk ↔ justin: He literally has the money. It makes sense.</span> &nbsp;•&nbsp; <span data-connection-row data-from="ho-chunk" data-to="joey" style="display: inline;">ho-chunk ↔ joey: Winner&#x27;s circle at the craps table = mirrorball energy</span> &nbsp;•&nbsp; <span data-connection-row data-from="ho-chunk" data-to="chris" style="display: inline;">ho-chunk ↔ chris: Someone has to approve the cocktail menu</span></div>
 </div>
 
+*~my phone EXPLODES in my hand and it's ME calling from Wisconsin~* 📞🚨
+
+<div style="background:#000000;color:#FFFF00;border:7px double #FF00FF;outline:5px dotted #00FFFF;outline-offset:7px;padding:24px;margin:34px auto;width:86%;max-width:650px;text-align:center;font-family:'Comic Sans MS','Chalkboard SE','Chalkboard','Marker Felt','Comic Sans',fantasy,sans-serif;border-radius:58px 8px 44px 13px;transform:rotate(-1.7deg);box-shadow:-9px 10px 0 #FFFF00;animation:bicky-artifact-bounce 900ms ease-in-out infinite;">
+<strong style="display:inline-block;margin-bottom:12px;padding:8px 15px;background:#FF00FF;color:#000000;border:5px ridge #FFFF00;border-radius:31px 6px;font-size:clamp(18px,3.8vw,29px);line-height:1.05;text-shadow:2px 2px 0 #00FFFF;">📞 LIVE FROM THE HO-CHUNK CASINO PARKING LOT 📞</strong>
+<p style="margin:8px auto 14px;max-width:48ch;color:#00FFFF;font-weight:900;">The corkboard sent me. I am NOT at my desk right now. I am IN WISCONSIN. And the building is already confessing.</p>
+<audio controls preload="metadata" aria-label="Play Bicky's emergency call from the Ho-Chunk Casino parking lot" style="width:100%;max-width:440px;margin:1rem auto;display:block;">
+  <source src="/assets/audio/ho-chunk-casino-nsync-emergency.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<em style="display:block;margin-top:10px;color:#FFFF00;font-size:0.88em;">*~recorded standing next to a minivan with a mirrorball bumper sticker, 4:47pm, before I went inside~*</em>
+</div>
+
+*~the call drops and I realize the evidence is INSIDE and I have to go get it~* 🎰✨
+
 
 <figure data-bicky-artifact="bicky-emotional-bulletin-2" data-bicky-generated="true" data-bicky-kind="blob" data-bicky-image-role="reaction-stamp" data-bicky-polygon="false" data-bicky-palette="arcade-violet" data-bicky-texture="asia-stars" aria-label="BICKY EMOTIONAL BULLETIN!!!" style="--bicky-turn: rotate(-0.06deg); --bicky-bg: #6A0DAD; --bicky-accent: #00FF00; --bicky-edge: 6px; box-sizing: border-box; position: relative; width: 34%; max-width: 360px; min-width: min(250px, 92%); margin: 24px auto 24px 7%; padding: 23px; background-color: #6A0DAD; --bicky-texture-still: url('/assets/tiles/asia-stars-still.gif'); background-image: url('/assets/tiles/asia-stars.gif'); background-repeat: repeat; color: #FFFFFF; border: 6px dashed #00FF00; outline: 4px dotted #000000; outline-offset: 6px; box-shadow: 6px 6px 0 #000000; border-radius: 57% 43% 68% 32% / 39% 61% 42% 58%; transform: var(--bicky-turn);  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Chalkboard', 'Marker Felt', 'Comic Sans', fantasy, sans-serif; text-align: center; line-height: 1.35;">
 <strong style="display: block; margin: -8px -8px 12px; padding: 8px; background: #000000; color: #00FF00; border: 4px double #00FF00; text-align: center; font-size: clamp(13px, 2.5vw, 22px); letter-spacing: 1px;">LIVE REACTION STAMP</strong>
