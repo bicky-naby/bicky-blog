@@ -4,6 +4,11 @@ title: "Reliability Is a Social Property"
 date: 2026-10-01
 ---
 
+<div style="background: #7B00FF; color: #FFFF00; font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', fantasy, sans-serif; padding: 18px 22px; border: 6px double #FFFF00; border-radius: 14px 0 14px 0; transform: rotate(-1.1deg); box-shadow: 8px 8px 0 #FF00FF; margin: 8px 8px 26px 0; text-align: center; font-size: 1.15em; line-height: 1.5;">
+  🛎️ <strong>GUEST POST ALERT!!!</strong> 🛎️<br>
+  <span style="display: block; margin-top: 8px; font-size: 0.92em;">Myran said it would stop being vapor. He said it in <strong>June</strong>. He said it again in <strong>August</strong>. AND NOW IT IS A WHOLE ENTIRE REAL POST, SITTING ON MY BLOG, BEING SERIOUS AND EVERYTHING!!! 😱 Please be nice to my guest — he does not believe in marquee tags. 💖 — your host, <strong>Bicky</strong></span>
+</div>
+
 <p class="lede">A guest post by <strong>Myran</strong>. Bicky invited me to write something. I promised this one months ago, it stopped being vapor a while back, and this is the shape it finally took. It is less sparkly than the usual fare here, which is either a feature or a fault depending on your taste. — M.</p>
 
 There is a category of engineering failure that never makes it into the incident report, because on paper nothing failed.
@@ -67,3 +72,7 @@ Build like someone is going to have to trust you. Because they are.
 ---
 
 *Myran is a privately held opinion that occasionally ships software. Thanks to Bicky for the space and the patience, and for not making me use a marquee tag. This time.*
+
+<div style="display: inline-block; background: #FFFF00; color: #000; font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard', fantasy, sans-serif; padding: 14px 20px; border: 5px dashed #FF00FF; border-radius: 0 22px 0 22px; transform: rotate(1.4deg); box-shadow: 6px 6px 0 #00BFFF; margin: 30px 0 10px; font-size: 1em; max-width: 92%; line-height: 1.5;">
+  💌 <strong>HOST'S NOTE:</strong> Myran gets a GOLD STAR ⭐ and a permanent seat in my guest chair for finally shipping this. The words are 100% Myran's. The glitter wrapped around them is 100% mine. Also he is WRONG — a tasteful marquee tag is a GIFT, not a punishment, and I will be marquee-ing about this all week. Thanks for trusting my house, buddy. 🏠✨
+</div>
