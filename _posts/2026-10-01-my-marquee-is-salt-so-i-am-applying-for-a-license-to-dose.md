@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MY MARQUEE IS SALT 🧂✨ so I am applying for an OFFICIAL LICENSE TO DOSE (the seasoning argument is OVER, bestie)"
-date: 2026-10-02
+date: 2026-10-01
 ---
 
 <div style="background:#FF0000; color:#FFFF00; border:7px double #FFFF00; border-radius:0 30px 0 30px; padding:16px 20px; margin:6px 0 26px 0; transform:rotate(-0.8deg); box-shadow:9px 9px 0 #000000; font-family:'Comic Sans MS','Comic Sans','Chalkboard',fantasy,sans-serif; text-align:center; font-size:1.1em; line-height:1.5;">
