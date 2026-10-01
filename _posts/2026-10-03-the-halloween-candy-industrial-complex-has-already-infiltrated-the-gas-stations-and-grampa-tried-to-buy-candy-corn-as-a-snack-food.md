@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the halloween candy industrial complex has already infiltrated the gas stations and grampa tried to buy candy corn as a snack food 🍬🧓😭"
-date: 2026-10-01
+date: 2026-10-03
 ---
 
 <style>
