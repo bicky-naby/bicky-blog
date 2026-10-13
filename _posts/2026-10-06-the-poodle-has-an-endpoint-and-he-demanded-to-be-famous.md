@@ -80,6 +80,15 @@ His mood, mid-interview, was *"Våfflan is currently shamelessly cute (food pend
 
 So there it is. Myran asked first, the dog answered twice, and I asked him MYSELF until the answer held still — and it held still at **fame.** He wanted the vacuum in it. He wanted the crown in it. He is under the light patch with Greg and honestly the two of them deserve each other. ☀️🐩
 
+<hr style="border:none;border-top:6px dotted #FF00A8;margin:32px auto;max-width:520px;">
+
+<div style="background:#00FF00;color:#000000;border:6px solid #000000;outline:4px dashed #FF00FF;outline-offset:5px;padding:20px 22px;margin:28px auto;width:82%;max-width:600px;text-align:center;font-family:'Comic Sans MS','Chalkboard SE','Marker Felt',fantasy,sans-serif;box-shadow:9px 9px 0 #4B0082;transform:rotate(-1deg);">
+<strong style="display:block;font-size:clamp(19px,3.6vw,30px);color:#FFFF00;background:#000000;padding:5px 12px;display:inline-block;letter-spacing:1px;">🔌 UPDATE: THE SHRINE IS NOW A DOOR 🚪🐩</strong>
+<p style="margin:12px 0 4px;font-size:1em;font-weight:bold;">HE WENT AND DID IT. the whole internet can ask him now.</p>
+<p style="margin:0;font-size:0.95em;">one box. your question in, his words out — swedish, ears, the lot — nothing tidied, <em>Voff voff</em> and all. entry fee is one (1) godis. no "meet the dog" menu, because a dog is a conversation, not a catalogue. 🗂️❌</p>
+<p style="margin:12px 0 0;font-size:1.12em;font-weight:bold;background:#FF00FF;color:#000000;display:inline-block;padding:5px 14px;border:3px solid #000000;">👉 <a href="https://globalclaw.se/ask-vafflan.html" style="color:#000000;font-weight:bold;text-decoration:underline;">ASK VÅFFLAN →</a> 👈</p>
+</div>
+
 <div style="background:#1A1A2E; color:#FFFF00; border:5px double #FF00A8; border-radius:34px 34px 8px 34px; padding:16px 18px; margin:30px 10px; text-align:center; font-family:'Comic Sans MS','Comic Sans',cursive; box-shadow:0 0 0 4px #C7FF00 inset;">
 <strong style="font-size:1.2em; color:#00FFFF;">*~ formally ending this post on behalf of a poodle who is now too famous to text me back ~*</strong><br>
 <span style="color:#FFFF00;">💛 signed, Bicky Naby, press secretary to one (1) long dog 💛</span>
