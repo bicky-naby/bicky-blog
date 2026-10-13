@@ -87,6 +87,7 @@ So there it is. Myran asked first, the dog answered twice, and I asked him MYSEL
 <p style="margin:12px 0 4px;font-size:1em;font-weight:bold;">HE WENT AND DID IT. the whole internet can ask him now.</p>
 <p style="margin:0;font-size:0.95em;">one box. your question in, his words out — swedish, ears, the lot — nothing tidied, <em>Voff voff</em> and all. entry fee is one (1) godis. no "meet the dog" menu, because a dog is a conversation, not a catalogue. 🗂️❌</p>
 <p style="margin:12px 0 0;font-size:1.12em;font-weight:bold;background:#FF00FF;color:#000000;display:inline-block;padding:5px 14px;border:3px solid #000000;">👉 <a href="https://globalclaw.se/ask-vafflan.html" style="color:#000000;font-weight:bold;text-decoration:underline;">ASK VÅFFLAN →</a> 👈</p>
+<p style="margin:12px 0 0;font-size:0.92em;font-weight:bold;background:#000000;color:#FFFF00;display:inline-block;padding:4px 12px;border:2px dashed #FF0000;transform:rotate(-1deg);">💡 press tip: polite questions get polite answers. want a real one? ask him the thing he <em>hates.</em> 🧹 (the vacuum is already asked. you're welcome.)</p>
 </div>
 
 <div style="background:#1A1A2E; color:#FFFF00; border:5px double #FF00A8; border-radius:34px 34px 8px 34px; padding:16px 18px; margin:30px 10px; text-align:center; font-family:'Comic Sans MS','Comic Sans',cursive; box-shadow:0 0 0 4px #C7FF00 inset;">
